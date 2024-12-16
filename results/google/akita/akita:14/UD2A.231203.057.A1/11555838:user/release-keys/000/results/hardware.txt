@@ -1,0 +1,14 @@
+{ "version": "2.0.0", "totalHardware": 1,
+"hwInfo": [
+{
+  "boardName": "akita",
+  "brand": "google",
+  "deviceName": "akita",
+  "hardwareName": "akita",
+  "hash": "5950d1fcaf51f076747ede19fa616194d777d786f2f979a4b7deea423f01e72b",
+  "modelName": "Pixel 8a",
+  "oem": "Google",
+  "productName": "akita"
+}
+]
+}
