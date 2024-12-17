@@ -1,0 +1,4792 @@
+{ "version": "2.0.0", "totalLibs": 684,
+"libs": [
+{
+  "bits": 64,
+  "fileSizeInBytes": 25920,
+  "hash": "a8d2b95bfabfc35dcdeaf9c1f3fc3351f964c5a823a67fd568fb2a1d296b911e",
+  "installPath": "/system/lib64",
+  "name": "libmediaextractorservice.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 9480,
+  "hash": "72d15b9d6281d5969d45b8ea01e8c513142f7f5cc53ee26a64ee049e19cc7125",
+  "installPath": "/system/lib64",
+  "name": "ld-android.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19208,
+  "hash": "4dceccdee4f4b911139e37f2b475709377f51e66374decbfb6bb5e37663bdee8",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio.common@6.0-util.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 473120,
+  "hash": "9f1aaab904e5cabd07d6eb8429dfcbf722b9ac04180af9deb9176eb1c34be821",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.gnss@2.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10416,
+  "hash": "08e694d07ae1cf8b7a48484f6568dc52e5f91c83ef0e9b146ebbd00e0c899161",
+  "installPath": "/system/lib64",
+  "name": "libpin_project_lite.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 29088,
+  "hash": "5fd376b362f82bd01ab01d9ec9471c7c3f5274a93474ac07f34c7c0b55b4cf12",
+  "installPath": "/system/lib64",
+  "name": "libpolicy-subsystem.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 24104,
+  "hash": "83c6ca093ef2bf8acd7ed1025400d7e64b135284a9c016e5c17b571c65e6d38c",
+  "installPath": "/vendor/lib64",
+  "name": "gxp_metrics_logger.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 376640,
+  "hash": "ec41fde975ad7768719fa0f57465003144cf761dc726e1c5b5b79dadaa92e8e9",
+  "installPath": "/system/lib64",
+  "name": "libprocessgroup.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 70456,
+  "hash": "80ee2b4148dd106e87a69c94c9ecc33b07575a1c9d181fb356afaaea774b1cf4",
+  "installPath": "/system/lib64",
+  "name": "apex_aidl_interface-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 72312,
+  "hash": "506f6b8efbd65daf5b439bd0b0afbddb73650fcea13f287742e61d6b178e684e",
+  "installPath": "/system/lib64",
+  "name": "audioclient-types-aidl-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 62808,
+  "hash": "7f2123839dd34cdf0663de75bf1a0f6e9a0565c2fe05a24b3110e05d01332699",
+  "installPath": "/system/lib64",
+  "name": "liblog.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10504,
+  "hash": "c4f202d26e3222bce39d57a21995644959447a4ad4b8cd46bfc0ad7b053d93bd",
+  "installPath": "/vendor/lib64",
+  "name": "libhidltransport.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 58840,
+  "hash": "33ffa65993996129485c2c76db0c4a41d24f4ed9eae1c1aaf4ef2e0e2e3cb999",
+  "installPath": "/system/lib64",
+  "name": "libprotobuf_support.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 20984,
+  "hash": "819e3da76be62a92342fd0709de5130515492357bf03c1d9a6efef8849562a93",
+  "installPath": "/vendor/lib64/hw",
+  "name": "android.hidl.memory@1.0-impl.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10648,
+  "hash": "0ac9003d8202eb0c1fc19d598bdfb629ca5c803c1161e9ffe3ee5b3affd18a5b",
+  "installPath": "/system/lib64",
+  "name": "libsquashfs_utils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 631504,
+  "hash": "f56fdbfce5fa85e775ec0b325db29bdda535064eac8a8f39efe730927e7cbc82",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.gnss@2.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 368048,
+  "hash": "fe790c32fd5bf99a4f06246758c51c2f4ab9fe1e8f92a783bfe9c2629e6d2f14",
+  "installPath": "/system/lib64",
+  "name": "libcups.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 84136,
+  "hash": "70a19ba71bea013d6047d2cef7964c676d634e34af115c589062360a3c62112e",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.gnss.measurement_corrections@1.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 231576,
+  "hash": "02427ab94b0769835911162609ad1cbb940e2abb1f2f2b293b2af637cb9f0afc",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.cas@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 81040,
+  "hash": "ef1a1e44a352bec875dc3cd936bfb85b497257d3474dac078b204ddf02cdc47c",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.thermal-V2-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 696416,
+  "hash": "0be3555b09a12e529c8599bde95e72b927201bf394fcf49a11a29036b63dcd18",
+  "installPath": "/product/lib64",
+  "name": "libc++.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 437376,
+  "hash": "cf84ac9d761ce07d836aaa53148b7ad11729dab34376b64496ea5a738a30543a",
+  "installPath": "/system/lib64",
+  "name": "libaaudio_internal.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 433584,
+  "hash": "47f6d9d368cf2c8bd1cb6c8a63d432b4869145f2ccd3dbb735386e3b7ec0da20",
+  "installPath": "/system/lib64",
+  "name": "libui.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 215904,
+  "hash": "f9c2b55e8436021d221356e20381f1cc483bd6e87b2babdb300348320b90c9ec",
+  "installPath": "/system/lib64",
+  "name": "libmemunreachable.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1634192,
+  "hash": "ea75aa3b2b7ef89309e0b5789bbc387e41abe3d0fb2dd7a80426c1b4bf520c70",
+  "installPath": "/system/lib64",
+  "name": "libgui.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 168192,
+  "hash": "bfe7703332c98b4a7633cf17a7fa4a00ac4262a550600ec4ab0cc27fc2c80592",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.radio.config@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 111416,
+  "hash": "01ef4ef4d481d1af279318fc6db7344ee2c6c9b70357b4f008f8d3ac8db1ff41",
+  "installPath": "/system/lib64",
+  "name": "android.system.keystore2-V4-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19360,
+  "hash": "a0e0e4b7b8e26f64816e4e86b92b37e6c6be3e21b071440b0ca560790ea3b58b",
+  "installPath": "/system/lib64",
+  "name": "libalarm_jni.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 20424,
+  "hash": "771999044e10df0955cc9e087d9e63bcfbd5439602f6a16f3c1bb22bab4d7135",
+  "installPath": "/system/lib64",
+  "name": "libandroid_logger.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 32464,
+  "hash": "6135f4e31eb6dea1f54ae323e1cdc8c6ba86121754c22f57332adb2109ffb30a",
+  "installPath": "/system/lib64",
+  "name": "libdumpstateutil.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 117960,
+  "hash": "0fff8114f8e57b33fb0c1567da504c6e78b8f2f04cc4535e488288ea43020d77",
+  "installPath": "/system/lib64",
+  "name": "libmediadrmmetrics_full.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 113976,
+  "hash": "e2d3ed83fadd0cb81d524190a847729d4211b4b77df33803b902c645f1e0ac3e",
+  "installPath": "/system/lib64",
+  "name": "libkeymaster_messages.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15848,
+  "hash": "64ecfb25a95530cec52a48e551b4e192d5a712c13e4b1b1ae74c80e30845c413",
+  "installPath": "/system/lib64",
+  "name": "libschedulerservicehidl.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 133424,
+  "hash": "86846a674ab665cee9e99edf1daf265afd9558627a2edcbf5ec9b6a21a17b174",
+  "installPath": "/vendor/lib64/hw",
+  "name": "vulkan.mali.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 259464,
+  "hash": "58d4721b80d79e0e133181d1318e6b190bb811a165082bbca56deb9adcb2c7ab",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.composer@2.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 11584,
+  "hash": "d28f42733b9f5a2e2703d8105862787afb90a1453862a4e0a74a05db179e7003",
+  "installPath": "/system/lib64",
+  "name": "aconfig_text_flags_c_lib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10736,
+  "hash": "0f86bf1f6ee33a4072b74cf9bd370e4e6373567f4164bc5da09a1190cd95034c",
+  "installPath": "/vendor/lib64",
+  "name": "android.hardware.common.fmq-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 102144,
+  "hash": "f52de2accd63040a1b494a5d8db0786ba25034db2cf3bb1bcf8d63e7250697f0",
+  "installPath": "/vendor/lib64",
+  "name": "android.hardware.graphics.mapper@3.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 721488,
+  "hash": "96eb51424a27b14fdafd12a9ad6162fc6e91465e21d3a65d72b071a8612d90cc",
+  "installPath": "/system/lib64",
+  "name": "libclang_rt.ubsan_standalone-aarch64-android.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 89608,
+  "hash": "a07f10ced7fddac4a3dffa9f1d67a98a2f3ff8d505f28f861ec9505410387456",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.power@1.2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 180952,
+  "hash": "df6e283f9c55b9857396f08b6cb22d6b992e07ad4abb6eec7f5cf5d4456a2887",
+  "installPath": "/system/lib64",
+  "name": "liblzma.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 11192,
+  "hash": "3242b75460888b259efe3ff4136fee0513c3049c2489d2eee4871ce929a34fd2",
+  "installPath": "/system/lib64",
+  "name": "libneuralnetworks_packageinfo.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 63552,
+  "hash": "3aaeb51ea3c76a91c2481b0acd836c9611f0700ac7d9e1c39e35e4fec6ca3a03",
+  "installPath": "/system/lib64",
+  "name": "android.system.suspend.control-V1-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 149688,
+  "hash": "5480f527f2b48dcaac07cb2dc8c6c21b95a2a39bb3b13c992f0c28c445007d81",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.sensors@2.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10704,
+  "hash": "dc29ad1001b61def010cd4f9bcb23e2a334c2a5e4fd288f1e61553bf3f813f44",
+  "installPath": "/system/lib64",
+  "name": "libhidlallocatorutils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19328,
+  "hash": "cf23ec82843d922689448868ba33f03d5fd496b1f12cf97159be42fea54eb5a8",
+  "installPath": "/system/lib64",
+  "name": "libext4_utils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 431912,
+  "hash": "37773e917bde61aba6f11222dad12a07385b458a0d4a99bfbbd38e2cd3970909",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.tv.tuner-V2-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 101272,
+  "hash": "3218bfcb7f58f34d793e8bd54a056c454c138caf8f510aac71939eaf47568e8a",
+  "installPath": "/system/lib64",
+  "name": "libsmapinfo.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 11288,
+  "hash": "91a18888bcf6c71cbe7703340c08db238ed106678280ac56197b96ee9cf9cc25",
+  "installPath": "/system/lib64",
+  "name": "libpackagelistparser.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19224,
+  "hash": "ced277c33ff286a2d8c841a6feccae2d306fbf27acf4cbbd83f4218006885aca",
+  "installPath": "/system/lib64",
+  "name": "libext2_uuid.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 162960,
+  "hash": "aff315f0016eba147a01cc6acb5dd10ba6a3f16601512163c81c6bae323dee0d",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.health@2.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 11080,
+  "hash": "d2943a6ea00413f2b6ec64dfb64275f5f7d6ec495d0d2d803d3c784b6e947627",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.configstore-utils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 29592,
+  "hash": "6f44d23ab6117d66daab791f0ea4105d055863d7e26afc0cf6f415e9b4228fd6",
+  "installPath": "/system/lib64",
+  "name": "libstatshidl.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 50392,
+  "hash": "7799046e227ee50c2f70b2fec08fadf0c1fffe374ba962f2db4fbc2bc9613bec",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.allocator-V2-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10608,
+  "hash": "66064b965d50e583a83247298a8d5f737a94ed9a188ae5bf6a76e8687a48e9bf",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio.common@2.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15280,
+  "hash": "1e84d2e89a75e6510b1dfe47a9d8e6655f6e754aacd22ad29f7828b244e1c054",
+  "installPath": "/system/lib64",
+  "name": "libfmq.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 587976,
+  "hash": "ddcceb60ad6c423346cd741b091d5e497f7bd588e2f702732d959c504f2e6cbb",
+  "installPath": "/system/lib64",
+  "name": "libvintf.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 816128,
+  "hash": "9d86542bd613e068348419b3f627518a3ba6bb99d4e15a1d2e2a214e174897e3",
+  "installPath": "/product/lib64",
+  "name": "libdmengine.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10520,
+  "hash": "ea88b3447e8b20dcdbf1f5df8525f61adf996fb5f24e4002dcf4847f40a9325a",
+  "installPath": "/vendor/lib64",
+  "name": "arm.graphics-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 878432,
+  "hash": "27be62f63310b1234868e411bf5e08f54fc7fbd9c97bb0abef20b8e075329061",
+  "installPath": "/system/lib64",
+  "name": "libstd.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 81624,
+  "hash": "3fea80444e9f01ebe75bcdcfa153600f32d58010edccf8b3adb3fd0fc3e6396b",
+  "installPath": "/system/lib64",
+  "name": "android.frameworks.sensorservice-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 97384,
+  "hash": "315e63f06036cbfc0632d5cabe392a16de4d44d12c94094a522d3f40a6dd1c5f",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.boot@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10736,
+  "hash": "6d31983d32ce4e5c1067ab8de16db88634aaeb96202179376f0a533f49e7dac6",
+  "installPath": "/system/lib64",
+  "name": "libpsi.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 66088,
+  "hash": "ede6a19618df7feffda342b7b54371dfec7b89305cddae4ed0e948cea688d084",
+  "installPath": "/system/lib64",
+  "name": "libext2_quota.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10512,
+  "hash": "abaa1b0764c52a92f88dbc25285412bd88c7796036b74e9ebb146d16276185ce",
+  "installPath": "/system/lib64",
+  "name": "libasyncio.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10840,
+  "hash": "2c93a2c6d60ba72b17be5f66ec471e0c07d01bb8c7cbef92097fd93a85859651",
+  "installPath": "/system/lib64",
+  "name": "libhardware.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19368,
+  "hash": "b1e9463eaf8c84ee5dd3d515e0cea19a815c0129004374cfeeebb4ce0a7052f7",
+  "installPath": "/system/lib64",
+  "name": "libsoft_attestation_cert.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 54432,
+  "hash": "0da4da2415187acaa73c8053bcec328de6e95c7494e770f0dc793208f9636cc1",
+  "installPath": "/system/lib64",
+  "name": "libf2fs_sparseblock.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 400496,
+  "hash": "1bf0599f29d58233390b090db53ea0df3fd7dd006aea9bcf73a217e15bf56afa",
+  "installPath": "/system/lib64",
+  "name": "libaudioutils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 71856,
+  "hash": "90e92c52a3562ae6ea4d9a8b7feed0ae94de41c2a95e65cd40fdc4a0ff087a0f",
+  "installPath": "/system/lib64",
+  "name": "libnativedisplay.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10600,
+  "hash": "4bc191b1488adde3e7e75571b8b65fdf50c8e5c82845d700964062ac4d573dee",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.camera.metadata@3.4.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 89736,
+  "hash": "29bdd9e0459a2be17e79197f334bee7421923b1ae5eefd5a1febb5146b107285",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.vibrator@1.2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 18888,
+  "hash": "eaab5816168ba8d109a68c46c3472dc85cb16e4027111811b6907b7ed987272d",
+  "installPath": "/system/lib64",
+  "name": "libsonic.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 14728,
+  "hash": "e8ca6ddb1477b976ea942000ba5ebfa4cd72627e0f3573b6e7ca0a78fda2d773",
+  "installPath": "/system/lib64",
+  "name": "libmediandk_utils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 89712,
+  "hash": "87984adef1995bc29636c2200e3c5d8134477846967d4bd3f3249fc5e6776d01",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.boot@1.2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 790744,
+  "hash": "36210eb0a8a75b1959520a1349ee782f03bf0584f197aa7134e76e589649e0c3",
+  "installPath": "/system/lib64",
+  "name": "libunwindstack.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 75344,
+  "hash": "e6b9a440718fd5c2b5cbcda342587c33817a57764359e5e9c5001b32ae6c9b09",
+  "installPath": "/vendor/lib64",
+  "name": "android.hidl.memory.token@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 50392,
+  "hash": "082ef19face056ef2f1d575cf4ace20d2ca163a0cd34b598ae140bff8f2cfcc3",
+  "installPath": "/vendor/lib64",
+  "name": "android.hardware.graphics.allocator-V2-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 65504,
+  "hash": "a1ca7a2c7eb26eff1a9dcb9bccd80095811433ba08735bbc199fbc7ad9d20aba",
+  "installPath": "/system/lib64",
+  "name": "libaho_corasick.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 170576,
+  "hash": "a29a3a34cfcbfa228b4a241ccbbca7c02d7619dbadb85eb229f7a0682e026a5a",
+  "installPath": "/system/lib64",
+  "name": "libvibratorservice.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1008968,
+  "hash": "730c9c398309a0f5318a8c1b8032ff15d4922f95c60ce09f1e72a35a114a5fa3",
+  "installPath": "/system/lib64",
+  "name": "libaudioclient.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 687688,
+  "hash": "8abe08e4248edfb65931dfbe8df9dbd2a1c2fd2430734ce128b5c50ff7ebdc2f",
+  "installPath": "/system/lib64",
+  "name": "libfs_mgr_binder.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 230432,
+  "hash": "967a96283dbb6c90d6995e19ae606821145584d3816790ec1dfa0eee12b0a295",
+  "installPath": "/system/lib64",
+  "name": "libkm_compat.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 128704,
+  "hash": "243492aa08a5c6f945742eaa62e426c7eea4aa1fcb941162271a9039820af481",
+  "installPath": "/system/lib64",
+  "name": "libaudio_aidl_conversion_effect_ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15376,
+  "hash": "0964266f21809452888304433d8b61176cb296d983b26a54a674fbb98dd00334",
+  "installPath": "/system/lib64",
+  "name": "com.android.media.audioserver-aconfig-cc.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 59920,
+  "hash": "0f19a76aa5f7cf72fea88623ca06e6a9fde50ef648d999f33d3c1faec7c24386",
+  "installPath": "/system/lib64",
+  "name": "android.frameworks.stats-V2-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19528,
+  "hash": "ecd22f651ee946db9719056592fbfac10a5d9da73eeb24d50952b7e7d6a0574e",
+  "installPath": "/system/lib64",
+  "name": "liblogwrap.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 100264,
+  "hash": "0e03470538736c1a22a95a89fb4050d15e3f0e9d1ff6c3630aa5af82f77583c4",
+  "installPath": "/system/lib64",
+  "name": "libdmabufheap.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 24320,
+  "hash": "a92eebbf8cdeec27263104ffbf4568281337d3b81043506bde8538b9222b2232",
+  "installPath": "/system/lib64",
+  "name": "libclap_lex.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1826056,
+  "hash": "6e2180749ec4f39ef1458ba41128755779351640fed382c8c08a226570b691be",
+  "installPath": "/system/lib64",
+  "name": "libaudiohal@7.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 42056,
+  "hash": "0844b440ee7dd853a7b8a1cbdec061b72863da1716e18115c2e5fa8d88df87b2",
+  "installPath": "/system/lib64",
+  "name": "android.system.net.netd-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15824,
+  "hash": "2a5784eec47d0129e907d4d79cf879cb41e995a1356194d2e8c2028e895b3102",
+  "installPath": "/system/lib64",
+  "name": "device_policy_aconfig_flags_c_lib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 88936,
+  "hash": "ee084be8f523036278798e5a3b1751fb6af286873051629e2c536c2df3a8699c",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.cas.native@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 401880,
+  "hash": "f7a876a66c3ec4c57121dcee25d54c1a1734e9b6d29f6a388ad43c7dd6500f73",
+  "installPath": "/system/lib64",
+  "name": "libssl.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 33944,
+  "hash": "850d7993589268ce2bdcc4c7807ec868b595c647e8d0558c5653bb76efcc95b9",
+  "installPath": "/vendor/lib64",
+  "name": "android.frameworks.stats-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 56104,
+  "hash": "e78b158aa3acba989129645b1b7073820f86f6bcd9e8bc9613a06bf5bc48c567",
+  "installPath": "/system/lib64",
+  "name": "libcompiler_rt.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 72568,
+  "hash": "0459efdea6323d2ac0bc80fc12de6276db9b3d3e72d60026360aebbf94dc5370",
+  "installPath": "/system/lib64",
+  "name": "libpermission.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 75544,
+  "hash": "715977cec2e4e2f67a59ab342dfe81861e75d4e6a65e37c083e17f5ca040d2d8",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.light@2.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 38568,
+  "hash": "50abe7e4984d3b2edf68bad511c9c27d9ee5afeaa370674c1fb520789a8cb323",
+  "installPath": "/system/lib64",
+  "name": "libperfetto_android_internal.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 23440,
+  "hash": "72c10d6263970e31ab4cb6d49787a8b1bd858c8af43dd7174e0a5fe66682a4a6",
+  "installPath": "/system/lib64",
+  "name": "libusbhost.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 42520,
+  "hash": "db5f76cf4e659f44b758ebafed8047dfc10d667a1877c1abd0174f212c01926c",
+  "installPath": "/system/lib64",
+  "name": "libdrmframework_jni.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 767888,
+  "hash": "2a414e70801fc4b5ab6ea0627771d60e19200e359919d3d49c2d85c4ecbf0a4c",
+  "installPath": "/vendor/lib64",
+  "name": "libhidlbase.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 88840,
+  "hash": "5e378e493faa43176b6de2e4048dc88d717f29bd8c44adf94c52044bdae90de9",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.gatekeeper@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 94568,
+  "hash": "46e101f982e2872430805211cc9443f4a07d72b53ceb732f3178db266ca25541",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.power@1.3.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 29656,
+  "hash": "7177e2050727c3f20873f744ebbca5c8ffd2c5a8d5b7ad4bdf24ddbe48e4463f",
+  "installPath": "/system/lib64",
+  "name": "libanyhow.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 78040,
+  "hash": "431433875d02e55d393380e3891ec6ae1a6e0c65e39a506cda39fcac92565a8c",
+  "installPath": "/system/lib64",
+  "name": "libsocket2.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 806664,
+  "hash": "ef772d9516e64f3ed711bd73ffcc848a3a8a61691895fb59e17c158ea0e6dbff",
+  "installPath": "/system/lib64",
+  "name": "libperfetto_c.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1124700,
+  "hash": "3c6a81d55a685e04e5fe9403f7b2be148266bc01b3a824c4a20da6702702cb9a",
+  "installPath": "/system/lib64",
+  "name": "libclcore_g.bc"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 116784,
+  "hash": "5d7dbdd42b81abc4ee3269c386b0d70dbd873dbc0ed668956aa571b4f8b0fd74",
+  "installPath": "/system/lib64",
+  "name": "libincidentpriv.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 380088,
+  "hash": "427bf19cbb70d81a98c420d76a32317da3faa89a61b4240299095a1a0c31d57c",
+  "installPath": "/system/lib64",
+  "name": "libext2fs.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 100072,
+  "hash": "c9b24cd62ccf5c2e3fc086937820f0bcf0dea95ba18e7f1497f8637ce1084492",
+  "installPath": "/system/lib64",
+  "name": "android.media.audio.common.types-V3-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 58456,
+  "hash": "5be81a13c1792ce8488111f3c4033d0c22fa0315d93997cfb1177430fdef39bd",
+  "installPath": "/system/lib64",
+  "name": "libcamera_metadata.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 380864,
+  "hash": "2d3eba25631ea9024bc499109e875fd8ce7404cbfbea94168e1b69c540b8eb65",
+  "installPath": "/system/lib64",
+  "name": "libwfds.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10496,
+  "hash": "e49dafb37ad264b82289d9b887bddc45e7d1b1b25d62437d1f9d3024e453efed",
+  "installPath": "/system/lib64",
+  "name": "libkeyutils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 11232,
+  "hash": "9a7806bcd80af350629e4cf040615268359703b502015672c106b2974665ae74",
+  "installPath": "/system/lib64",
+  "name": "libinputreporter.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 154632,
+  "hash": "e518b682a90feedf665a571352a5257b8ea4e44c01ce9ba2cf375a0cc81a9d95",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.camera.device@3.4.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 14768,
+  "hash": "70deff6c0c8612c76562a537063a36a891a885b26d643ea05ff89e53b02a67d4",
+  "installPath": "/system/lib64",
+  "name": "libbitflags.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 84088,
+  "hash": "253411244ec3ae2b69d36fa10a7282e5938dcf8da50a671abb4192e4872a9989",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.power@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 126312,
+  "hash": "bd617e0224fcbaad3e4aec078c9f8181c857123bbddd263c9d6d02f19ba01be2",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.tv.input@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 11256,
+  "hash": "4b186270b8bb0626b45067ac3a958ce28392c8be53277d57d718a428ebd617b5",
+  "installPath": "/system/lib64",
+  "name": "android.companion.virtualdevice.flags-aconfig-cc.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 84160,
+  "hash": "dcb6f7bd0f77e63fa24b46fd174222738910343224018d5ec56cfc0acadb220e",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.allocator@2.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 32624,
+  "hash": "041c62062e55b827e2ad826fee147f2f89cda44936554cfb7d3717febee4baf0",
+  "installPath": "/system/lib64",
+  "name": "libnetd_client.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 31736,
+  "hash": "970902f488bb431b2f2561f0702239b6b8b599a14bb2046dbfb00578bf57ee2e",
+  "installPath": "/system/lib64",
+  "name": "libstats_media_metrics.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10616,
+  "hash": "0311bf49513b656dfdf9894d6157c50f413ea09cfd0b48f7d98c096156e02a7c",
+  "installPath": "/vendor/lib64",
+  "name": "android.hardware.graphics.common@1.2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 23600,
+  "hash": "fa55cb0aad2db6c4a84a583fffc1bfd7865cf78c43be03fa9dbe96abf0730ba5",
+  "installPath": "/system/lib64",
+  "name": "libexpresslog.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 194704,
+  "hash": "2efb257895c329772a44d2e243e097de68eb6b983a1adcba75c0485625aaa547",
+  "installPath": "/system/lib64",
+  "name": "libminui.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 18450032,
+  "hash": "fa92c49b990b5ebc1dae944655055621d772e94017bd0210f84283162e51a8a2",
+  "installPath": "/system/lib64",
+  "name": "libLLVM_android.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 129104,
+  "hash": "46fc313fa6c65830e696d1f8a475d531db3d8f97661eec3a809299ef32b3e218",
+  "installPath": "/vendor/lib64",
+  "name": "android.hardware.graphics.mapper@4.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 92936,
+  "hash": "e24ea2cfea94d44922173cb5a67e7c42944fcd65c7af36a39990e7c39e8f6577",
+  "installPath": "/vendor/lib64",
+  "name": "android.hardware.graphics.mapper@2.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 36808,
+  "hash": "86099651253777c1fba1b691f02d116d297986efe4adbd7896784542c242c726",
+  "installPath": "/system/lib64",
+  "name": "liblibc.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 32512,
+  "hash": "3a335294e4c0b3e998362e4b4d159c34147dc668582cb344c26b443113e20051",
+  "installPath": "/system/lib64",
+  "name": "libprocessgroup_setup.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 409128,
+  "hash": "09bb6da4eab7c42d39ffeae65b592908c1d19c2dc5e3dc751175ca48e5985b44",
+  "installPath": "/system/lib64",
+  "name": "libregex.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 129104,
+  "hash": "7e2ea4ae9b46783f51d0c124f08616374eddace25e16e974191049845b5f5cd0",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.mapper@4.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 152568,
+  "hash": "4f3052021e1194e0a4e06bb00dfb3ba782a25073d3bff465b59e4905bcef2367",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.sensors@2.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 95088,
+  "hash": "8295404ce0f69a08965f31535b76d3b2c5a2fa3d2335a7d5a0309ddbf26c72de",
+  "installPath": "/system/lib64",
+  "name": "libhidl-gen-hash.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 33592,
+  "hash": "9f4f71be9010a96f306d400064024374d403f692e5c92c2d4d22c92df28aa3d9",
+  "installPath": "/system/lib64",
+  "name": "libmemchr.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 135776,
+  "hash": "750ad361d33e56da11a49ff67924b03bdf1b0e4bcdd6a9a84dd88048f147ba6d",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.secure_element@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 33760,
+  "hash": "3e564b8fa6b90eca165900e42a2f94e85cf8945e64fbf75db07e4369340323b3",
+  "installPath": "/vendor/lib64",
+  "name": "com.google.edgetpu_vendor_service-V2-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 42296,
+  "hash": "0d0657aa0a4086cbee88c5086906d41cdde2c30bee98b75dbf987b41920c9b26",
+  "installPath": "/system/lib64",
+  "name": "android.system.suspend-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 58464,
+  "hash": "1c4494b05bc4e58edeb5a815db6f63321cfcdd1e5abf1ea07bc6213be233918e",
+  "installPath": "/system/lib64",
+  "name": "libbytes.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 83880,
+  "hash": "90b6bd89d2584c901a3b36e4f2258d7db9a809820bb5b0d601f55e5fd745cd6d",
+  "installPath": "/system/lib64",
+  "name": "libcppcose_rkp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 84112,
+  "hash": "bcf3c99ca44d0f32d629ec020a1492f0bf0aff40e7418e94afb782aae0e81248",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.dumpstate@1.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19376,
+  "hash": "343fb1ebf8474bfbcabc982c2780e9a4f2157a506474148b5097d56fe93eefd7",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio@6.0-util.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 232688,
+  "hash": "06904152eb9a30f79fdc5562ff9f6551fa65690151fada0174d98254b902dfe3",
+  "installPath": "/system/lib64",
+  "name": "libEGL.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 330936,
+  "hash": "53b4da883ef8511aa18ca08466c442ed33f04ed324dc8977ada8f3e67d1e656a",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.drm@1.4.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 24256,
+  "hash": "528223d1a3c283b57e806f96a15d752d4e6abf8cfdb67071e3ace76a445074ee",
+  "installPath": "/system/lib64",
+  "name": "libbinderwrapper.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 323920,
+  "hash": "b1e47b168dcf973f908da12ba2284bbdbd78bd797ef9656ba1f9fe8225d6bbe1",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.composer@2.4.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 283512,
+  "hash": "87467c23dd70f06367adb0d084ff967e052e2845325a050f91f47076b43789cd",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.media.c2-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 407584,
+  "hash": "cef068717770e6f0de5133bb2d186877554a20600a48d8dbb45bc6056695440c",
+  "installPath": "/system/lib64",
+  "name": "libFFTEm.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10416,
+  "hash": "d92d0d06578498a69b694379431cd65c6aef9adf69394c36ecf327c4814c5328",
+  "installPath": "/system/lib64",
+  "name": "libandroid_log_sys.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 46232,
+  "hash": "d55a613f25a32ede9f699efbe6c4c758a6120b94fc334d9abd01d559288142c3",
+  "installPath": "/system/lib64",
+  "name": "libstagefright_codecbase.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 696416,
+  "hash": "b3b9a6ed46c09c6e5c82b286240c3db40d59e560d89a0628d10e7a30badd7c7d",
+  "installPath": "/system/lib64",
+  "name": "libc++.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 83800,
+  "hash": "9196246d228f9d1dfc955d3d3762147ba657bd67cbd518fb1d482093540d5953",
+  "installPath": "/system/lib64",
+  "name": "android.hidl.token@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15360,
+  "hash": "1007080afae111d4f3c9326cef766e437c537b9b0e1e290ce11c6d141c6a6be4",
+  "installPath": "/system/lib64",
+  "name": "libaudioaidlcommon.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 60136,
+  "hash": "8aa46e13d09e69888dc414d66586a91334d809ee1baf30a76521b5af5a02fdf8",
+  "installPath": "/system/lib64",
+  "name": "libaudioeffect_jni.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 109552,
+  "hash": "23ad2c3ac1357da056d85d64b9b7198693bc0b6167a2b3303275f0af071c258e",
+  "installPath": "/system/lib64",
+  "name": "libdrmframeworkcommon.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 373808,
+  "hash": "e1a51d2c405f9892f78a75cd49b851575511069e5514e65298d06a6b0757af57",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.drm@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 40456,
+  "hash": "342876db9e4ba178041e464d2093860d6b5ad2999967d3ddf05f7816c5213c67",
+  "installPath": "/system/lib64",
+  "name": "libgatekeeper_aidl.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 49344,
+  "hash": "1f2dfe9229bd3ceac6119e99bc4073f2330ad5c94c3e2fcc4b9e6b5f2b214716",
+  "installPath": "/system/lib64",
+  "name": "libtimeinstate.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 282008,
+  "hash": "8b2b0659aba861c909bde6442a66f60e59eb4d095ba6be1201a7c2028aea47dc",
+  "installPath": "/system/lib64",
+  "name": "libaudiofoundation.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10672,
+  "hash": "9676cd1ef217c92d4614a65847152ffb03811779911b00467976cb7d12e30a56",
+  "installPath": "/vendor/lib64",
+  "name": "libOpenCL-pixel.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 133912,
+  "hash": "46f8286dc8c1d12e53786888bdabe5835a7e220c096197d3ea73d494b7fe267c",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.drm@1.3.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19208,
+  "hash": "80da400c315836e809ba2bc2712f846271e5402b168caf5e823f4fcb71a19f04",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio.common@5.0-util.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 60608,
+  "hash": "2788fa47707cce595741b6ced995ee80c9eed0da23a4c4b3cc7aee90fff3a90b",
+  "installPath": "/system/lib64",
+  "name": "packagemanager_aidl-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 20224,
+  "hash": "133b58ca3573679d742ff923d9ba940143aded432273591601ff35486fde17c8",
+  "installPath": "/system/lib64",
+  "name": "libaudiohal_deathhandler.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15336,
+  "hash": "84282360790a5557fdd44dae8b937488937f1014538ac3bd1c7081817c9793d0",
+  "installPath": "/system/lib64",
+  "name": "libOpenSLES.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10632,
+  "hash": "85c3c0248010930e54cdeb096e07b53e68c851814afc37cc1f5e704dedf136d0",
+  "installPath": "/system/lib64",
+  "name": "libandroid_net.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 523752,
+  "hash": "2dab4d64ce4725ebc2fe3f60449b03f3bc587b40537317f1215152a74d439ac8",
+  "installPath": "/system/lib64",
+  "name": "libRSCpuRef.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 237032,
+  "hash": "52a18dcc1d10d9d4933bf3899f483a89fba2d69d6bd77d593ff6083354cfe33f",
+  "installPath": "/system/lib64",
+  "name": "libstagefright_foundation.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 209856,
+  "hash": "0cdd4290e931d9804ff997f258a5a2fe6b33ff58d665d1db4325cf08f7708d82",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.composer@2.2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 93904,
+  "hash": "28380de2579d92371be6dda8562ef666cc312452dc151902ca0944d34e274118",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.camera.device@3.3.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 42104,
+  "hash": "c06ebaa737ef83930a7b0d1e627f1acc3ff42134488502d198deeff80ba2d911",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.boot-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 167896,
+  "hash": "bfd45b0d880320ac45dd5a805d312ca3eb38384fcda915f9b96a27e99f0c06ad",
+  "installPath": "/system/lib64",
+  "name": "libexpat.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 57544,
+  "hash": "8f2fdeecb1bea52e7101567b68e17663f19789b37c82f0cff06faaf1ccc26b4f",
+  "installPath": "/system/lib64",
+  "name": "libgraphicsenv.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 125120,
+  "hash": "c96d52ea40b6bd51019ca9f99554537a5b1ffbb2eb3c29268b4b495f88f4b6d0",
+  "installPath": "/system/lib64",
+  "name": "android.hidl.memory@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 36072,
+  "hash": "6e3a82fc5d51e598fbf8828bb313a2ac37e71c25032cd05d23e467a254e369c5",
+  "installPath": "/system/lib64",
+  "name": "android.security.aaid_aidl-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 71096,
+  "hash": "f6a4ca83cb1e4d5ef42ee1862f88ce4cb14d3b7e709d42df4f42ffd57acb7f4e",
+  "installPath": "/system/lib64",
+  "name": "libmio.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10584,
+  "hash": "1ed989289f4fdd748b51484b6ac46394ba317e95eea2895379aed1072f0f7481",
+  "installPath": "/vendor/lib64",
+  "name": "android.hardware.graphics.common@1.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1628064,
+  "hash": "af41b3ed18404b900da215bee10a42297669d40c69ded0ec5a8bc6a0fd60fc46",
+  "installPath": "/system/lib64",
+  "name": "libprotobuf.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 175880,
+  "hash": "2b57128ce3dcb00cfc888bb1c8a1c145a3c49ee6012f37af0571e3a31254d138",
+  "installPath": "/vendor/lib64/hw",
+  "name": "android.hardware.graphics.mapper@4.0-impl.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 73256,
+  "hash": "b4757d2166431fe5c5e4fdbe39a9d3195c017919025dad3eeb6a050a71a42cbd",
+  "installPath": "/system/lib64",
+  "name": "libsensorprivacy.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10416,
+  "hash": "02077bb96a2487a20a7b161ecd6876c36c272fae4e1732744650af84e695816c",
+  "installPath": "/system/lib64",
+  "name": "libcfg_if.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 20320,
+  "hash": "fe338fb6b2ba5c3fbd894efba66871d9deb3eedc8bac0b1be5fb509776abd8d5",
+  "installPath": "/vendor/lib64/hw",
+  "name": "gralloc.default.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 130808,
+  "hash": "3e036e1c9e9e806348166bd6580e455692ccd4a4a6918c67e51a234d4a67a567",
+  "installPath": "/system/lib64",
+  "name": "libmedia_helper.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 50968,
+  "hash": "457a2fc7cb7caf986d8fab5bea20cf495b90424e269f354817cbc7add58e24ce",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.usb.gadget-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 72216,
+  "hash": "7604988e95f95d2097cb975013d512bb7376c1494295d7db827be1d04c6b4887",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.health-V2-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 314160,
+  "hash": "d040fb39c774234b2cc05cd4e95f92a34fb17dbf76bfb65d342f24d428629a1a",
+  "installPath": "/system/lib64",
+  "name": "libcodec2_client.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 35776,
+  "hash": "da2f5619e58686063d521b1409db5e2ae296d7129e68402d8fbae1866d58b1a9",
+  "installPath": "/system/lib64",
+  "name": "libmdnssd.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 275704,
+  "hash": "585ea6e309fe37659ddc335f7997a698a1298d76981d3682ede481e87eaf185f",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.camera.device@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 383344,
+  "hash": "76513234ee06db8c215e4af26be91667e75a9a412b71dcf7eae9886a3a52ea68",
+  "installPath": "/system/lib64",
+  "name": "libservices.core-gnss.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 178240,
+  "hash": "41383bd63124f2971d3eadd6e2688c6da2c83e7c13d07f5af9767302b78b5c0b",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.media.c2@1.2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 56552,
+  "hash": "c4c3060c5d24bd8369ef84aef5bd605a3d766e853ff44a2eada608bc8e6f887c",
+  "installPath": "/system/lib64",
+  "name": "libbpf_bcc.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10416,
+  "hash": "bde96c11966c6e6336f448fc8b5f5947ac6d69fa39cdceb667855e71757fbc51",
+  "installPath": "/system/lib64",
+  "name": "libbitflags-1.3.2.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 13816,
+  "hash": "9994898ea4ecfcfdda1bbdb41b7204f4f01d9c788d085df43250832741088876",
+  "installPath": "/apex/com.android.runtime/lib64/bionic",
+  "name": "libdl.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 133528,
+  "hash": "184cb2fc05a074128637fe8726ca7ff7610245ec15eaec3ab0565cb0b3a8e86a",
+  "installPath": "/system/lib64",
+  "name": "libnativeloader_lazy.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 460864,
+  "hash": "abb6c1eda9fce9abe056a0d291078589650652a248c15376c12e9aad6a6037fb",
+  "installPath": "/system/lib64",
+  "name": "libtokio.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 14840,
+  "hash": "80d0ec8879d36d05c63432bfe6d99e15a596b761acd3b5b27c6230ceba1f93f6",
+  "installPath": "/vendor/lib64",
+  "name": "libion.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 51696,
+  "hash": "e34fdda22bc68865dad650d6bc0f3bc2074ab0fc20748b3587270309a58cd2ef",
+  "installPath": "/system/lib64",
+  "name": "libdumpstateaidl.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19960,
+  "hash": "6edf4b7b9f05d7c4acc41b89bfb6cd249b202c6e7d25acf08bd1a4f33dd3e0ce",
+  "installPath": "/system/lib64",
+  "name": "av-types-aidl-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 753544,
+  "hash": "7deead50cd1dabb2e584c929b93dd1cbcb6a0c90e590417e5e16d1c95926fecf",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio@6.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 31584,
+  "hash": "32eaa4082253395d8698b79775002a3f17f70d5de47aae99f13f17036de7b01b",
+  "installPath": "/system/lib64",
+  "name": "lib-platform-compat-native-api.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15128,
+  "hash": "aff5fd797a4e1d47babb058511b2e3df05b1a6d8683b4e86adf2c0b1f1d2f3fd",
+  "installPath": "/system/lib64",
+  "name": "libgsi.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1371536,
+  "hash": "0a6f271a3d4b0273b82c9d75d2993f5497fc33f204d7675ad1d6bf705924c080",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.radio@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 121160,
+  "hash": "b6c19228c01de7b6637267443a866802f8d74d53e5add34238afb6a1a5541f75",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.confirmationui@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 109632,
+  "hash": "fa05839fe97bab11861382f2062950275694bb37ab6a27a45e5b8463da6b1d15",
+  "installPath": "/system/lib64",
+  "name": "gsi_aidl_interface-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 84240,
+  "hash": "ace2ed2108dbd1b63fc4292e1b414c5264bd79d07920e395600a212980df55c4",
+  "installPath": "/system/lib64",
+  "name": "android.hidl.allocator@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 28344,
+  "hash": "dcbf195b34f4cd9df2e28e1e96be25b7017f48e66d3860ae7cd088ebc681bc33",
+  "installPath": "/system/lib64",
+  "name": "libhardware_legacy.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 125120,
+  "hash": "490e811ff34f603b450eb02034b2fe41a922a6478a4360db771ea59de430519b",
+  "installPath": "/vendor/lib64",
+  "name": "android.hidl.memory@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 102888,
+  "hash": "1168e2abcae316425309056cc49fded50e7cd920abbb7682ae95e00ee5779036",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.vibrator-V2-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 2370328,
+  "hash": "018416bb11ed6bdfdfb022136f5ebfd6a0533214b264fb735c33d8920e39f001",
+  "installPath": "/system/lib64",
+  "name": "libnfc_nci_jni.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 86176,
+  "hash": "f31587ef124cf01d5a4d11dd7c4e8231f00170a4af192abef27d3464235046cb",
+  "installPath": "/system/lib64",
+  "name": "com.android.server.inputflinger-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 262672,
+  "hash": "9a102a264651b5d7702058fe48ff65c47c7badf9e0551af23d241809ab1e3953",
+  "installPath": "/system/lib64",
+  "name": "libadbd_auth.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 37232,
+  "hash": "7793859da75839fb3db8498618fc4e58c61546f8ad955c604c904f1fc9db4ef0",
+  "installPath": "/system/lib64",
+  "name": "audiopolicy-types-aidl-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 175216,
+  "hash": "45d18359c69a62f6d6f631a84c916eda3f59e466ffb9cb2b8e5e390392821165",
+  "installPath": "/system/lib64",
+  "name": "libbootanimation.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 151464,
+  "hash": "a96d32a3454c74b7bbcf0a912440d5f017427622563f7e352f5cb978bd9e7a3e",
+  "installPath": "/system/lib64",
+  "name": "libpdx_default_transport.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 33760,
+  "hash": "90829c48094d2b60c1af9f52f846cd5c316d7b3e52e5dc32bdf7e1a54171951e",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.dumpstate-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 175464,
+  "hash": "e6ec35e6fc1591c8904cb1e47d95978e11b5c030dac689ed27ed88ff02e1cc72",
+  "installPath": "/system/lib64",
+  "name": "libminijail.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 233448,
+  "hash": "493f915d0179e2f5e1c9e22e42a6154d10c38f22c2c90e18224f2048581ac15f",
+  "installPath": "/apex/com.android.runtime/lib64/bionic",
+  "name": "libm.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 87240,
+  "hash": "b0be777773287b8b1804d25fc851dd1f33e118c5769fa07400631702e5137aff",
+  "installPath": "/system/lib64",
+  "name": "libfec.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 263704,
+  "hash": "a99cdc347dbbcd79f613dfe7d1163a8a7e01db4c30ccb7dbcf20633b0b2e5c22",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.camera.device@3.7.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 100264,
+  "hash": "8fc905c695524148d361585781a8ae7023929df624aa42691ed3dc533081044b",
+  "installPath": "/vendor/lib64",
+  "name": "libdmabufheap.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 35728,
+  "hash": "0e6300039d316fde6a6491e168a02d521196ba55115cdbcfcefe8ad48b583a8f",
+  "installPath": "/system/lib64",
+  "name": "capture_state_listener-aidl-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10016,
+  "hash": "8188f59891fb5d6f2990f7d907953fad598eb7c359163a96097a83ea0e0d7073",
+  "installPath": "/apex/com.android.runtime/lib64/bionic",
+  "name": "libdl_android.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 205184,
+  "hash": "a5789278e9c31b2782f0b9c2fc05684e098b398b91d5db1f6839b9b4b04d21f4",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.camera.device@3.2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 101816,
+  "hash": "516b1df983ecad96970ae1ba6f294e870436ff165c6d723b966ea4aa9f28476c",
+  "installPath": "/system/lib64",
+  "name": "spatializer-aidl-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 706024,
+  "hash": "255eda9df6f274d020fec6ec5241337626e6aa1d785b43506d63c349104c597c",
+  "installPath": "/system/lib64",
+  "name": "libEGL_angle.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 45104,
+  "hash": "68a1c1db33646c20ea13a6db61206b88c26b9ac2955a8f8dca14f5c6cb225529",
+  "installPath": "/system/lib64",
+  "name": "libtinyalsa.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10920,
+  "hash": "8bd9a334e6206c612c11bddf95d3408fa888b1ffd8dbf864410a8e50e09e6dcc",
+  "installPath": "/vendor/lib64",
+  "name": "lib_jpg_encoder.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 682328,
+  "hash": "87fcfa27a35f1f88688afd6087b9494860e397cf711c0f11daec44a6bf69e403",
+  "installPath": "/system/lib64",
+  "name": "libmedia.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 75488,
+  "hash": "9017b69cf87c28ddb046ffb1108e702e47053c57123d2770b2e76cc1e3026cf3",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.memtrack@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10632,
+  "hash": "49c81681bf398d14be68c5635fcb68a0356e508ac6491bd02382c01b397178c9",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio.effect@5.0-util.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 8699952,
+  "hash": "6c5fc16947429b963c6c3d009ec5c36aee92d010c82b81f5485da6df58b85315",
+  "installPath": "/system/lib64",
+  "name": "libGLESv2_angle.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 51888,
+  "hash": "aae8d5b95a2732f80dd8e3c16640cf3482b28dbb8c0b1b50812815db6c5c6362",
+  "installPath": "/system/lib64",
+  "name": "libupdate_engine_stable-V2-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 89264,
+  "hash": "996edff5adcf8047da908ea2d5b2f0a60f3b1b474254e89573b5f5ef563e988a",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.sensors-V2-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 33472,
+  "hash": "f99443365e4e3b1fd45cf56097e4ede798006a55cf29f2344237840d264e5388",
+  "installPath": "/system/lib64",
+  "name": "libboot_control_client.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 92936,
+  "hash": "b15186d9a8ca3eae6fff9a3d9b8390e25e8fc244c434e8ab7106b18d10891a1d",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.mapper@2.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 11456,
+  "hash": "2b69d2838da9583dd8563d7ae88345489ddc50dce1807be404005ec40898621e",
+  "installPath": "/system/lib64",
+  "name": "android_location_flags_c_lib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 70952,
+  "hash": "977065f7a277ea0b0c79866ecc057566acdb5b02558bd9d3b61aa649c2fc9deb",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.dumpstate@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10504,
+  "hash": "c5ad501fb6f34cb5345fad54bbee691ee11e8ac7aba6980660a7642d23ec9e89",
+  "installPath": "/vendor/lib64",
+  "name": "libhwbinder.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 230696,
+  "hash": "46af14b43c20d74c5e2e1c84b7a9bf6cf3851b91223c7d8da6d7efc6aa301da5",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.camera.device@3.6.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 586664,
+  "hash": "08eec4b560c2b8c538f7a520a58dfac71a5c620dc6908598d4acfbcee193d642",
+  "installPath": "/system/lib64",
+  "name": "libmediadrm.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 68296,
+  "hash": "ac058c9a42d7ee0e6533dbdf0bd06b1283a10b79c960fb9a9ef9e4911984fc71",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.tv.input-V2-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 282240,
+  "hash": "2372f37def01fb8c3d159ccbad8f7860da8ec0c921b2fc41464e7d56bff0d96e",
+  "installPath": "/system/lib64",
+  "name": "libbrillo.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 616720,
+  "hash": "4f3079eb6afb4d8234fe0e30d6257baf353add7f5b4fef20149bd890ea26b196",
+  "installPath": "/system/lib64",
+  "name": "libft2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 2245136,
+  "hash": "db47a1fce3b135e785b4660b1f821556f57e9dc3ff2f7d5186e382d97da77498",
+  "installPath": "/system/lib64",
+  "name": "libsnapshot.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1651184,
+  "hash": "0b0cf9fc892c66774ec0e2efe61a4c0ddaddddd95774e1f0f2182bdc63a628de",
+  "installPath": "/system/lib64",
+  "name": "libvirglrenderer.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 163120,
+  "hash": "4e026b3d61295dedd5faab853153301d81489cf0f26e421c770f90b977b541d4",
+  "installPath": "/system/lib64",
+  "name": "libfilterfw.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 158936,
+  "hash": "f598dcb0aaf94636ead1a3bb5c1aaab7a59614fbec8ee208b1cb57c51b2ff063",
+  "installPath": "/system/lib64",
+  "name": "libdatasource.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10568,
+  "hash": "2f976d696ab442ecbbd23d9b85409ce1badeca7d5454676f87ecddc3d558c669",
+  "installPath": "/vendor/lib64",
+  "name": "android.hidl.safe_union@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15600,
+  "hash": "225753d60d37b6aac8cf0134b75d733607e226245df519f71370139373f81005",
+  "installPath": "/system/lib64",
+  "name": "com.android.media.audio-aconfig-cc.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 88944,
+  "hash": "d2cacdc462b74d25551c1afcf6f1432cdb162fc91429bda1edf00ee036d2f074",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.boot@1.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 38984,
+  "hash": "c44976eec1594ca1fefc082110c6e2e2e9d05d92201a511c9d5432d853aece3b",
+  "installPath": "/system/lib64",
+  "name": "libamidi.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 89176,
+  "hash": "137be76e583c5aa8972be97bfb9fe1c1bafd211433c009e933d5d1f37da884f1",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.power@1.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 947792,
+  "hash": "8953bc3c96c301f6c0c94ecc3f118895d8019100c24583440a0d717e73308bb8",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.gnss@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 32576,
+  "hash": "46cf7f003d6efe4612fa55179c6dbaf0cf1b32797e12d3637806f44a4f5d82e2",
+  "installPath": "/system/lib64",
+  "name": "libutilscallstack.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 84192,
+  "hash": "7e6c22220110cf4d31e3642ca9e6e4489a3ba4309e1fc48f1058d8a2cede7b88",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.allocator@3.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 205280,
+  "hash": "0c287acc910d9797f78a9262062c67fbde6baa3e20b087e4e843ee5fe9b57135",
+  "installPath": "/system/lib64",
+  "name": "librtp_jni.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 70104,
+  "hash": "cbf21414e29087c98cc6c8f0b759bf15fa3dd981be65edbc1d8ed4a7501e0c93",
+  "installPath": "/system/lib64",
+  "name": "libenv_logger.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10912,
+  "hash": "3a798d5c2bf22ebfb47fff942a1fa9e4d1d074fe4e515a38e59906b332193cbc",
+  "installPath": "/system/lib64",
+  "name": "libos_str_bytes.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 36456,
+  "hash": "b87f2c00b8adaff2b987c8b641ceb4972c9f0f6de9e0817693d861f5efa789b6",
+  "installPath": "/system/lib64",
+  "name": "libnativewindow.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 14840,
+  "hash": "e1f731143dfbcc598600fc19bd9cf0b97d9d5e07366255ee3787035354aa5868",
+  "installPath": "/system/lib64",
+  "name": "libion.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 318904,
+  "hash": "c6c6e5dd2f475593746f6179a735eb310034567577f3a6ca8430ba4c1f50e874",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.renderscript@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 736584,
+  "hash": "1901296d38ecab580a77f39bb886e0ae5ebe85a7a90b92ddd44ce49e98dea6aa",
+  "installPath": "/system/lib64",
+  "name": "libparameter.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10584,
+  "hash": "77a92016072c1149f8a2209ea4c6c75863939e6aacc039f58f704b7f3d3b956c",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.common@1.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19240,
+  "hash": "4bfa09a57255bcc5988f714714ecaba80d11bcc870c0496c5c50e59ed7bb1f09",
+  "installPath": "/system/lib64",
+  "name": "libjpegencoder.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 46176,
+  "hash": "f60eac025c1720b21f2ed867966155ffc45ceac2eb5f41a7cdff33f3f1353161",
+  "installPath": "/vendor/lib64",
+  "name": "lib_aion_buffer.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 303440,
+  "hash": "eaa8dab4b4e0eed2eb99388ade44d1c6f7e33b54ff8fe3e95108ed54aa85f96a",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio.effect-V2-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 46224,
+  "hash": "b9b861956417c2e5d11ada89ce9f918b95bf8c5614a4c6d7d3231e850a2f3b39",
+  "installPath": "/system/lib64",
+  "name": "libnbaio.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 33520,
+  "hash": "1e5d38c1a5e38fc57ab055e5eecce860962172a32556783fbd1e9d1605152a1e",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.input.processor-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 104600,
+  "hash": "469e3098a2674a84d6f09adbb65580ec04198c47cef254214b169de13bbf9083",
+  "installPath": "/system/lib64",
+  "name": "libstagefright_xmlparser.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 331832,
+  "hash": "218fc1cad6b4d65bf532d4ff160e34e1876732664ef791eee7c1f1b0d27a45d1",
+  "installPath": "/system/lib64",
+  "name": "netd_aidl_interface-V14-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1170640,
+  "hash": "f2d2f781f40808a8bb67b60eeb6664576df6cb8e85414a13350858184be10753",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.radio@1.4.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 5092976,
+  "hash": "11ac79c21307ab6ebeaf3b9e39a6885a3ca926a71849af51598dc413abd5eee2",
+  "installPath": "/system/lib64",
+  "name": "libgfxstream_backend.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 265128,
+  "hash": "01ad41d28e649b2a461b2b54910f06e51bafbd0ee98e07f517d4b7acd2e26b01",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.composer@2.3.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 63640,
+  "hash": "236154d400b59bcae2dac0893a36d24a52ef64d50ee793fe38db30ed279e97a4",
+  "installPath": "/system/lib64",
+  "name": "libinputflinger_base.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 32176,
+  "hash": "b2fc9dd8696312061adb0a56fe3a97a6c69455cf3303bab37c6d9fadc34bdddb",
+  "installPath": "/system/lib64",
+  "name": "libgatekeeper.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 66680,
+  "hash": "09c0e2fff37e327bffb1a3a71450b7667051206cbdb1fa85deeb95d15c9e8c4c",
+  "installPath": "/system/lib64",
+  "name": "libmedia_codeclist.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 47640,
+  "hash": "a26f5eabc27d90f1359ac317853646f0332222e0567c3a3c2c64f03e39fb9ebc",
+  "installPath": "/system/lib64",
+  "name": "libheif.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1224448,
+  "hash": "3e5c4923a8e40bdaf3fc70d62ecfe1024469ec62cf16b2d83ab7147961209039",
+  "installPath": "/system/lib64",
+  "name": "libchrome.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 345736,
+  "hash": "aa6b7a73842fe74f33e9eb66e1dd4de1a0d1b07266c1614aeb9cb34554bbd362",
+  "installPath": "/system/lib64",
+  "name": "libclap.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 37736,
+  "hash": "d9307dcf2d3d31f4829a9a389976953fbcba19a771c17da8ddf96e1cf6b78b0c",
+  "installPath": "/system/lib64",
+  "name": "libext2_e2p.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 90416,
+  "hash": "51bc21005f3133a68c50dd1d40be8d003bef38f5d169df6adab47460f95908cb",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.media.bufferpool2-V2-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 39400,
+  "hash": "f3a72f0e58f4dc694d39d72e77e19b5d3d56a39d489e6f4f92ef640ef0f0d2f0",
+  "installPath": "/system/lib64",
+  "name": "libGLESv1_CM.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10600,
+  "hash": "6e69759cd887d1828f15ba121d3eb71f039dc9227559617bc151945bae990c01",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.media@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 84872,
+  "hash": "712db6e892ce3ef847122d519adfa26eb74c4fd8f02b5e03b4bc50c4aebd6700",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.vibrator@1.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 557040,
+  "hash": "6a7038ea539a0f68c8705caa8871219a409c1124b065c13e2270b4709d099a4d",
+  "installPath": "/vendor/lib64",
+  "name": "libprotobuf-cpp-lite-21.12.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 375664,
+  "hash": "564ad45a69fb9ad45321250409760b12dad2f7538f2b62fcb2c8944773866fd8",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.drm@1.2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 75672,
+  "hash": "4c87e6ad2077210c704e360852b0a3e460ab64570f006b565c77be7d7e27f112",
+  "installPath": "/system/lib64",
+  "name": "android.system.net.netd@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 51168,
+  "hash": "1a3e453626460be35520999bc175c6131e59026871399a9bf64c26f6ac141f01",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio.core.sounddose-V2-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 14912,
+  "hash": "3de8478bb885257587139759bc6dbfadb603be09700edf33d205d29de25e7729",
+  "installPath": "/system/lib64",
+  "name": "libincident.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10832,
+  "hash": "1126384a5ca84da9db73280cf7718db3ec14560aaa8bd4ab39976368f5c75c25",
+  "installPath": "/vendor/lib64",
+  "name": "libhardware.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 40384,
+  "hash": "2922cf0c06553f87eab4fc99e76908ceca0aff4be2b67c607be560febc3e45c8",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.security.secureclock-V1-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 84696,
+  "hash": "cb95a4ca8d0eb1e3fcb3ca36c67d3b816298a8fd536fa529e392998cc12164d6",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.thermal@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 767888,
+  "hash": "a32d34697c58cb04a012e06c55beb1dc4224bcbf1345800b6d42d7fa2785121b",
+  "installPath": "/system/lib64",
+  "name": "libhidlbase.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 286336,
+  "hash": "379acc743b2a3f0851bffb11ed1c858b34ec908fe0f751b321e6e22569dba64b",
+  "installPath": "/system/lib64",
+  "name": "libnix.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 64560,
+  "hash": "46ecf1f83dee5ec9ae14c427aa95f09dcefb6a81778bd594a2a51a953a505ce9",
+  "installPath": "/system/lib64",
+  "name": "effect-aidl-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 37368,
+  "hash": "bdb3dad451f900b717c908b244197ea04e658e706f5b11d63f1411df528ff3b2",
+  "installPath": "/system/lib64",
+  "name": "libaudiohal.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 138784,
+  "hash": "680b5b7954ea73da128e3257e10283b639321dc0983562da0c0ee6e18d447439",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.keymaster@4.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 24256,
+  "hash": "b893901c4c04fa29b8186ad87241e0400944852d5794477fa278301113c97fe9",
+  "installPath": "/system/lib64",
+  "name": "libdumputils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 75064,
+  "hash": "477598c2a6295c11a1ea3e9a92352b9bce589b9ad30933ef5f12a7d2c550388c",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.vr@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 70160,
+  "hash": "b64ee06c5fd09bc316f0100766567456c333dd4854e0385c775af7decfa6cf7f",
+  "installPath": "/system/lib64",
+  "name": "librs_jni.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 111192,
+  "hash": "a454de2995a616011aee550ed4a468e369176240df2c152c94ef6a91886b0e0c",
+  "installPath": "/system/lib64",
+  "name": "libbrillo-stream.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 39056,
+  "hash": "2663b0b1a30787fc4bbba8dd3e3ac72fde85d1a0ac64008ebaec5d43bc9a0c09",
+  "installPath": "/system/lib64",
+  "name": "oemnetd_aidl_interface-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1077160,
+  "hash": "cef914434e995ad93411486c2eb9c1f2904a7d587559062c1ad5ec6e5f39a8c6",
+  "installPath": "/system/lib64",
+  "name": "libclcore_debug_g.bc"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19464,
+  "hash": "b9252c05e114ad2ad8cab88a2cbbcfaf2b2be83ec2ce4e15f4539cbc9a358200",
+  "installPath": "/system/lib64",
+  "name": "libjpegdecoder.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 133416,
+  "hash": "cb9faec6148b864e43bfeed957086d71b0eea740f77c3f63e1e0af09f7d006fa",
+  "installPath": "/vendor/lib64",
+  "name": "libOpenCL.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 169824,
+  "hash": "3b07e0fab9e0df31f34f4e4534a2ff5c31dfcb123e7c727e8b5588c67cd350bc",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.keymaster@3.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 121632,
+  "hash": "81d7ee2af905fe4a3ed9901df32ff9d1a3cbc96933b1f1ffe6e5999c3fa62eba",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.usb.gadget@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 251920,
+  "hash": "3134bf4eeb593bde6dda010b70397edb0e346aff6753965c8c2c8e49804b26a6",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.drm@1.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1411648,
+  "hash": "02f2384f563427763917892ab3cad81b54c9a46d66e445b7ba6d664ddb2b3b0e",
+  "installPath": "/system/lib64",
+  "name": "libcrypto.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 210456,
+  "hash": "3f8600e450548cbc9c1e98b585ae759868eddb6d8fc647daa23df32e044616dd",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.bufferqueue@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 168192,
+  "hash": "d7ad08fa92d611cac0acb25d234474d40a2419801d2f14627d64b0fda7943890",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.radio.deprecated@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 237352,
+  "hash": "247894f08659f3fa273246fc8e65110d7b3d7d484bd241d03bde044a5083f34e",
+  "installPath": "/system/lib64",
+  "name": "libmediandk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 256152,
+  "hash": "df4c15e29c2ed032808446057d8d280b13afbe99df14785194b24e2c3017b3bb",
+  "installPath": "/system/lib64",
+  "name": "libmtp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 21744,
+  "hash": "5ebdf803ae51e4115c0e3f6bb2cfc0c4f46783633269543d955e57cd00307739",
+  "installPath": "/system/lib64",
+  "name": "libaudiomanager.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 14840,
+  "hash": "d7384129de44a9979f897a69751ac202e782b63d848a1bdc28c2ed63b679c3b3",
+  "installPath": "/system/lib64",
+  "name": "libcodec2_hidl_client@1.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 131040,
+  "hash": "ef61280d663283b776f4df9081cdeb5340ec5f42107dc2ff61e498525b88f052",
+  "installPath": "/system/lib64",
+  "name": "libexif.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 311120,
+  "hash": "8c6a346139066956473cb0600a369d9d8df826dd43c6ae26f5ea0a9bf636da91",
+  "installPath": "/system/lib64",
+  "name": "audiopolicy-aidl-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 42112,
+  "hash": "d335b4cc7e51a43d88992b651431df505d93fb2b4596e73d77974eb22ae3bae7",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.gatekeeper-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 48744,
+  "hash": "7b37d7a4cc2b2d7807e1dfedb44918a5a8ccdb23e0ff93150e912804bc248353",
+  "installPath": "/system/lib64",
+  "name": "libcap.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10616,
+  "hash": "963827d1750bfa17f36d8eaedbd11b62a0002d2b0702c0832df8b29b7caa93b2",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.camera.metadata@3.5.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 11368,
+  "hash": "e896db76bba23b07090eebcc4c3d83acf11ba22d102886bb98e896a336b63552",
+  "installPath": "/system/lib64",
+  "name": "libstatslog_libinput.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 154576,
+  "hash": "9ffc8586aa0af80c63fc376b07a12ad1b6812f4c5738d238b08ea001ff258a55",
+  "installPath": "/system/lib64",
+  "name": "liblz4.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 85720,
+  "hash": "d37b382435954cff6f82b9d05b43b8ba4518e59e6ba40efa6f7b1a5587db3ca6",
+  "installPath": "/system/lib64",
+  "name": "libaconfig_protos.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 557040,
+  "hash": "3940253ae57554c592c3947dbb888a08da17bcb95f10429c676996e21e6b0045",
+  "installPath": "/system/lib64",
+  "name": "libprotobuf-cpp-lite.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19264,
+  "hash": "8c6276cdcee646b4e62b5de1715b080ecd02cce1c6ee1afe2c70d8b106c21deb",
+  "installPath": "/vendor/lib64",
+  "name": "android.hardware.common-V2-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 753296,
+  "hash": "0aee28082d6c0422af3889f04084ddee26ecfdf1cced5077cdd194939bf4c198",
+  "installPath": "/system/lib64",
+  "name": "libjni_deviceAsWebcam.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 271152,
+  "hash": "b38dcb6e960398556f6861d177b2b1ab3545f0134e3f52c654e52cba78bae0c6",
+  "installPath": "/system/lib64",
+  "name": "libbcc.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10800,
+  "hash": "63689d9e8fe8808b0ea8b9873368487268fbee077070f76306b01acb64966608",
+  "installPath": "/system/lib64",
+  "name": "libandroid_runtime_lazy.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 675792,
+  "hash": "53ae1229bffdaed1675e34463a4919ba0cf29b36e822e7a3ecc74518da6e5e8f",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio@5.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 125672,
+  "hash": "16361ff7e604e3e77e8ac9f7dc289921c60d1d7e5523f6d20572fe229631a0b3",
+  "installPath": "/system/lib64",
+  "name": "libbootloader_message.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10488,
+  "hash": "cb574c7fd7735998224795acddef1fc7bc50a21cb21baa05d8ac6c6154b06ee2",
+  "installPath": "/system/lib64",
+  "name": "libbssl_sys.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 70752,
+  "hash": "e5157371445ecf20e514b165f7f958795f04b1fa8411f95bd3e7730fafc4c847",
+  "installPath": "/system/lib64",
+  "name": "libdataloader.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 46424,
+  "hash": "bf4c8ae6e531231dedb2a3646ba132cdde90881eda37b37de6e01936f3509e47",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.security.sharedsecret-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 84088,
+  "hash": "b4122d9b0816241fda05fb0e3453d5b9f65ea00e8ebb5e67cd2871f17d8e6945",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.vibrator@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 128888,
+  "hash": "d68d9611ddf0a200899161877a166a5cfaa5368d91f14caa093cd3636bc44f31",
+  "installPath": "/system/lib64",
+  "name": "libkeymint_support.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 2608768,
+  "hash": "792804d0d9d9def8335837e00ffc8cb01483015931395d5c98478fe863ab17c6",
+  "installPath": "/system/lib64",
+  "name": "libandroid_runtime.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 100112,
+  "hash": "ca54c9e87da0596560eae53d051559bc3f2d269c72fc0aceaf58332e3bec591c",
+  "installPath": "/system/lib64",
+  "name": "libaudiopolicy.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1002936,
+  "hash": "a516cc7d7e54ef71235ad60f4a1713b8fee7f77da16cedfcf7fa20659567d99a",
+  "installPath": "/system/lib64",
+  "name": "libaudioprocessing.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 24120,
+  "hash": "4bdfe9ba4e2a41cb0446ccab0aeeeb1d6108c3a58ff6f32b7e1f40a0e3e978a0",
+  "installPath": "/system/lib64",
+  "name": "libjnigraphics.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 14696,
+  "hash": "caed8e04c4ce92fa06ab9daeafe19a48a41adb8179c23e0ad6a377c18bbd8b30",
+  "installPath": "/system/lib64",
+  "name": "libshmemutil.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19624,
+  "hash": "d3be17d22f7532d5114c2ad0e345a68fc45fcda50b302fb690f487ec0cdc8a41",
+  "installPath": "/system/lib64",
+  "name": "libstagefright_omx_utils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 327512,
+  "hash": "f0a7c897ce7769cf106378689bac0f39a4dc79bbd5c36f3a2087c6a5788c0a81",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio.core-V2-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1136936,
+  "hash": "0378605394afd2e349e1e1c5fb0ad4211d0a2e7a0d64048d4fc0433c5ab83b9a",
+  "installPath": "/apex/com.android.runtime/lib64/bionic",
+  "name": "libc.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 230696,
+  "hash": "0f863989f1ae806e75de738da373a67c5589f68f674a9f76f3393a3af45f69a2",
+  "installPath": "/system/lib64",
+  "name": "libbase.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 255616,
+  "hash": "fda934d6abdc1a55462cad983a0231883552273f801850eae72d2852b313e347",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.broadcastradio@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 83856,
+  "hash": "12aae480d1becc6f8f87dcbc65d63d2d338fee410c6b2198a91dd4327194e302",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.atrace@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 131568,
+  "hash": "beff92bf6284e9b6aa03cb50879f3c9a59dd586b0b42c93eb1853d19fef95c37",
+  "installPath": "/system/lib64/drm",
+  "name": "libfwdlockengine.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 310536,
+  "hash": "ddb593ab12576efb62e45607badb9e28edf76dff5a7b75420ff68cd9a68889e2",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.gnss@1.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 2006024,
+  "hash": "e2db13c289e1aca0a1ccfb0bf8e0c13a7082e6fdbf7c730b2e10619b3a5e621f",
+  "installPath": "/vendor/lib64",
+  "name": "libgxp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 106216,
+  "hash": "ad4faea73b02c2bcfc8dc05fea49dd3bce20c9c7babe6074a9a322cda93ffd49",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.sensors@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 775472,
+  "hash": "d3a6c88951116b32230404a4d8b6e6c1ef525efff4af8feee0fcb36505542956",
+  "installPath": "/system/lib64",
+  "name": "libcodec2_vndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 28240,
+  "hash": "9c4105bb861d845c643ed483e5693041553f57cc2191f02736e53b68822b315c",
+  "installPath": "/system/lib64",
+  "name": "libpower.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 24624,
+  "hash": "f80a11fcce2afa993e40c3ed4006f4bdb6c1dee7a9c88eebf965779740cb1036",
+  "installPath": "/system/lib64",
+  "name": "libmedia_omx_client.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 179640,
+  "hash": "99b445c8f458bcc38980460d55fd713f1ea4fdc988534dd7fe175f5427ce2b3a",
+  "installPath": "/system/lib64",
+  "name": "liblp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 296240,
+  "hash": "36a588ef1063b89d7f3b4a6406c67721035c76219f6f41274b7b6aa78b238b57",
+  "installPath": "/system/lib64",
+  "name": "libpng.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 104032,
+  "hash": "61e52de2c0dc9b9ede9e5e7d72c0da9a77966eb16624c068b6fde2cc16909466",
+  "installPath": "/system/lib64",
+  "name": "libaudio_aidl_conversion_common_ndk_cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 41880,
+  "hash": "8e351283b53953712842d63aeeb034e4b7358b1fa22e3691f37cddd0163d5115",
+  "installPath": "/system/lib64",
+  "name": "libartpalette-system.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 14728,
+  "hash": "1e232e5f74eb0742756224f971ddd2ebac9c589287a99ad79550b3ddd7c40240",
+  "installPath": "/system/lib64",
+  "name": "libaudioflinger_timing.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 268368,
+  "hash": "29cb7103e3223fb63f3258cff400746604e92a84030e2c6d77467930fb4c44bd",
+  "installPath": "/system/lib64",
+  "name": "libaudio_aidl_conversion_common_cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 230696,
+  "hash": "4a5a5af0996f7c89a9a6733ff755365e99acc029084b0401dd13d19739bbc6d9",
+  "installPath": "/vendor/lib64",
+  "name": "libbase.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 655144,
+  "hash": "5823ea5d0a561f341dfd349a397f6b6d595941ce435df4801a23363c596663bd",
+  "installPath": "/system/lib64",
+  "name": "libaudiopolicycomponents.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1352720,
+  "hash": "a1d5694f5664565e637a6ea196167995fa332f6d6569ac28c39a632f74f2e845",
+  "installPath": "/system/lib64",
+  "name": "libinputreader.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 364720,
+  "hash": "0c2611ab528d51c34389a9752d6ce24b6e47b647282967f2dd7b78d03934427e",
+  "installPath": "/system/lib64",
+  "name": "libpcre2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10608,
+  "hash": "a76fa79008d3f285e0436eb226e895915802cd20b172130020ca54361953ed2f",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.camera.common@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 116472,
+  "hash": "c390449f11cba66297af63b27bb26843f1c6c4e63d2d7c68be03e1bb89397efb",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.configstore@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 2096952,
+  "hash": "1e735717d970f9d246457e52747be73e3f3228b56c226e47fbf9c4746b1cb4cf",
+  "installPath": "/system/lib64",
+  "name": "libstagefright.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 27664,
+  "hash": "18a8970ce2506171e6fc68222b9d5d2cf7df49395bbd5f8c3e2fad9fd8cd0147",
+  "installPath": "/system/lib64",
+  "name": "libnetlink.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 201064,
+  "hash": "5705a7e594a556aadb5b218435a898834238edfce7795c42a9cf9ffa9ec7273d",
+  "installPath": "/system/lib64",
+  "name": "libstagefright_framecapture_utils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 46224,
+  "hash": "1bda4cdeffa07b9f7f18e64d69646f5f45ee4909e12a4b2c7964dc68eea640fe",
+  "installPath": "/system/lib64",
+  "name": "libactivitymanager_aidl.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 139768,
+  "hash": "b8421b9621894082de8254e183a05543dddf31e621c7825851a26336a97b28a5",
+  "installPath": "/system/lib64",
+  "name": "libkeymint.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 112680,
+  "hash": "f8c1cdf00ea70889f378eaae0743b7160b64a7ca872960d9a9c244e38a4879b0",
+  "installPath": "/system/lib64",
+  "name": "libinputservice.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 330432,
+  "hash": "cf5e66e49c3ec8e0535da0676e1fe841d3624171451fe06362f446d1a52200b5",
+  "installPath": "/system/lib64",
+  "name": "libclcore.bc"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10952,
+  "hash": "ae8090e85ac524bedad54a939a4480c6435606f9f3b343f363d88082e2fd1d96",
+  "installPath": "/system/lib64",
+  "name": "media_permission-aidl-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 90784,
+  "hash": "ec54fc232cdf8349b8d440a3ae774a63bd006bf8cabdf78fcb4aeacd5dac4490",
+  "installPath": "/system/lib64",
+  "name": "libdrm.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10568,
+  "hash": "c3db0f75f33b652c8ffc55449a3591c93854370614f40b06b936af1fbff50c2f",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.camera.metadata@3.2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 126376,
+  "hash": "2cac17ff21e1099e59e97b1ade3af34ea2f4e5337f9c0e5119800556d1907500",
+  "installPath": "/system/lib64",
+  "name": "libultrahdr.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 14880,
+  "hash": "2ff5d8e6c506ebf672fb3c54dc2dd13be4f7ac7deaec0568bc72b90d2676bbcd",
+  "installPath": "/system/lib64",
+  "name": "libmediautils_delayed.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 116896,
+  "hash": "275b7b651aef7e8ef0843d22af57f56edef0e0ccf5b9d3676e04e419602eba39",
+  "installPath": "/system/lib64",
+  "name": "libpiex.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 23896,
+  "hash": "f2fb7e6128dfe4a8fbf78a06bc6a696a4d5f7d724f8097577712a11ae555e000",
+  "installPath": "/system/lib64",
+  "name": "libfsverity.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 29792,
+  "hash": "9c10f3d7198daeae593d3c44b2d0866f00c1dd00818f6f8e4cfa2b48c5b959d9",
+  "installPath": "/vendor/lib64",
+  "name": "libhidlmemory.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 14960,
+  "hash": "01945d58650d6d8578d5d19a4df66aadcc4c511a4f224e80b5091af4ba0d1071",
+  "installPath": "/system/lib64",
+  "name": "libstagefright_http_support.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 326280,
+  "hash": "83700a9322978478e34b0193c0d3510dd43ba53ef9836caf2898b4b491265f98",
+  "installPath": "/system/lib64",
+  "name": "libstagefright_omx.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 33480,
+  "hash": "98cfb6a5e05018287f27635ffab2a28230451a3a1698690d10aaca70a0c8f081",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio.sounddose-V2-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 607752,
+  "hash": "422357a8f06f3e4c09c32256eac84ad3e7200282e0b37f2365b88eb2886e0410",
+  "installPath": "/system/lib64",
+  "name": "libsonivox.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 24112,
+  "hash": "21886ff615dcf6298b3da3acb8504ec237e8c8356fb7a2f6727dd6d345f7edc6",
+  "installPath": "/system/lib64",
+  "name": "libbinder_rpc_unstable.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15744,
+  "hash": "8b52cb291d78c5a5cf4a9d8f64b5f82c7f812bc9805d5406f661948116e3b9bc",
+  "installPath": "/system/lib64",
+  "name": "liblogger.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1275952,
+  "hash": "6960e144bb81bb1d186612f9a8b619142d1a244f80f2e12ee029901236bb3ea0",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio.effect@5.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1497496,
+  "hash": "7dd5f4834e593d7d2c645331ca604a253ff2a8b2afe6aeea39553e0dfc314d4d",
+  "installPath": "/apex/com.android.runtime/lib64/bionic/hwasan",
+  "name": "libc.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 2529520,
+  "hash": "02b6beb3add0d90f96911b4a87dc1c8bf2fd5902e2458bfb28986b10e44baf83",
+  "installPath": "/vendor/lib64",
+  "name": "vendor-pixelatoms-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1221512,
+  "hash": "ad4ec6d480b8de2990eecabb0bd7069e740776ea4f82e34430e742a0c9b2773d",
+  "installPath": "/system/lib64",
+  "name": "service.incremental.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 102568,
+  "hash": "33ab968af33b1474b2a357ac2873d489bc658f68b4460b0fb4b50b11fb5fd49f",
+  "installPath": "/system/lib64",
+  "name": "libpuresoftkeymasterdevice.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 95552,
+  "hash": "97c18214c96ef5d1476f81f6cdfba57a3f0835e9caba8e66f87be71bbad34181",
+  "installPath": "/vendor/lib64",
+  "name": "libcutils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 118584,
+  "hash": "7b69d02c362bcc068baf6e47b88a5fd795d2fc5e6aae8a383b7aafcb6e180c1c",
+  "installPath": "/system/lib64",
+  "name": "libz.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 106592,
+  "hash": "2dcefdfb1a7a5fc29b21b9739d9ad061ac20afa321dde5c59a22957b2c84b343",
+  "installPath": "/system/lib64",
+  "name": "libPlatformProperties.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 72248,
+  "hash": "62bfec0b5c9b41389dd7c6b7b01eca6756c42f6dc4fc6e7b07390c77ba077924",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.health-V3-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 92808,
+  "hash": "09e12ffc601cc7c97acb63f0147da58d3f026988a906d230307ed50351c0320d",
+  "installPath": "/system/lib64",
+  "name": "android.system.net.netd@1.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 187768,
+  "hash": "c41899e8f58e7ba3b91b0e9c11f16a0b2b0406c856bee7977ecf20f989e1b691",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.drm-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 118144,
+  "hash": "78fd519f45ecae79cebc1b1714ffff1e1a785305a4e0464b4f803b768e27bc3d",
+  "installPath": "/system/lib64",
+  "name": "libimg_utils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 276936,
+  "hash": "8267a16fcdde8faa568251d54c9e989d779ebaf3d12ff009cecae4c86e6681ed",
+  "installPath": "/system/lib64",
+  "name": "libnl.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 296240,
+  "hash": "cdcc8c516cec1ebda5e399dcf1a6d8bb09537e47a6cfa881ddad2248ab48578a",
+  "installPath": "/vendor/lib64",
+  "name": "libpng.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 36344,
+  "hash": "ff54f8a278c51efa343884079851ae596ad3a0a4ccfe611d3e8fbcedb3ec8673",
+  "installPath": "/system/lib64",
+  "name": "libGLESv1_CM_angle.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10568,
+  "hash": "70431e956946791e0d50e5c5e9a3ea4b3857c7308869c3beb26d3ae8b62a8e71",
+  "installPath": "/vendor/lib64",
+  "name": "android.hardware.graphics.common@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 197392,
+  "hash": "28b3e52df7bcdca423cd67f0d3c0b346c075a173036cc09e0c8ee184d6462ad4",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.keymaster@4.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 11024,
+  "hash": "04827b2499006dddf023e401ed5b9c4b00129a807128b68feb63907c2770c145",
+  "installPath": "/system/lib64",
+  "name": "libRSCacheDir.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10864,
+  "hash": "0c18fab3b22a859e9ccf00ad8bcc9a998cd4f7e50f2b3b7a3c56b33a3d2e8c7d",
+  "installPath": "/system/lib64",
+  "name": "libvndksupport.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10616,
+  "hash": "6544340384710b720b887d6548010d7f1a46d39bddb639cbde7868071ce20844",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.common@1.2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 92784,
+  "hash": "81d923245656c00f7401066f0f7ae3409f43d6a445629288ef460917d00f5c74",
+  "installPath": "/system/lib64",
+  "name": "libziparchive.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10664,
+  "hash": "a66c06991de2bceead100988dccd67a31862b2082db186582f32f462ea24dc98",
+  "installPath": "/system/lib64",
+  "name": "libfilterpack_imageproc.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 41400,
+  "hash": "a74ab6660c0240c49e01a3feee4eb33463ac5aa3c310a1ca1aee7a23943ee708",
+  "installPath": "/system/lib64",
+  "name": "libserde.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 134224,
+  "hash": "d6481f46f2c31ced23484760c56f9a22616f58d57b68f39c9a5f7be43b501237",
+  "installPath": "/system/lib64",
+  "name": "libbinder_ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 113680,
+  "hash": "36774be1c59f86865587bd49e9da0d68d29ad0bde4c6aaf51d87fd9bd1a311ad",
+  "installPath": "/system/lib64",
+  "name": "libcodec2_hidl_client@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 36312,
+  "hash": "d0173c9b5bc5be79506d007ad4d87d605687252ed55e0f366d6927e825aea6b1",
+  "installPath": "/system/lib64",
+  "name": "android.os.statsbootstrap_aidl-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 4972800,
+  "hash": "df4e7b6c95d8a19028f54ca221cfa777dcfff65dbce8726682436248516278e3",
+  "installPath": "/system/lib64",
+  "name": "libpdfium.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 28104,
+  "hash": "6d1c644541baf16efabb537f368c31a7bd706c5ba47bf2b4733171893e78e700",
+  "installPath": "/system/lib64",
+  "name": "libspeexresampler.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 973472,
+  "hash": "a0d7d74f75aaca9249c8c52820a8ae7aaa99409fb7782f150cebe191c7fda13b",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.radio@1.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 14840,
+  "hash": "f6ef09c1012d8dd9b4ffa2a160d5538bdbd9b9665c10ced53cbfbe6a5fa59a2a",
+  "installPath": "/system/lib64",
+  "name": "libETC1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 75344,
+  "hash": "e85668f4eeef70e129a0860ecd0e5fb733dea970cf3b26aae47a72d7b2c00779",
+  "installPath": "/system/lib64",
+  "name": "android.hidl.memory.token@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 226120,
+  "hash": "3cc2edcd1174d150af18f819c00b7f444569458953459aff5f137be654ad5341",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.composer3-V3-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1593232,
+  "hash": "55ffa23adcd9c62d3270982e4f35eb56c82ec92d79d164f2c35320039760b792",
+  "installPath": "/system/lib64",
+  "name": "libblas.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 225416,
+  "hash": "ca5f93751d84028e5d317f8e1aee79bc21b416b422f005b924b20a04f5c3a13b",
+  "installPath": "/system/lib64",
+  "name": "android.frameworks.sensorservice@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 242264,
+  "hash": "2fc9f37c30d59f7080c1f77b20a45ed3240433bf77ebcd43e7589d72f7aaf19b",
+  "installPath": "/system/lib64",
+  "name": "libaudiohal@5.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 142568,
+  "hash": "ed536c90c0e99bb242af2021fb37fe60d1291312ff086a94cad73af939ab9998",
+  "installPath": "/system/lib64",
+  "name": "libkeymaster4_1support.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 130008,
+  "hash": "b6343ed5a425f5bf65bdcf25c53a8ae7b9a7f6f27d176aa4a2163a7b187d1869",
+  "installPath": "/system/lib64",
+  "name": "libutils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 57592,
+  "hash": "6eb34806d6d1f4d0f9116d6dbdcbe080576c0aef91d2b2557e19130893da9fdc",
+  "installPath": "/system/lib64",
+  "name": "libhidl-gen-utils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 53864,
+  "hash": "38114f37cc27d4a70865be024712902de2d3e646cf6b20e766f4c1c47963cae4",
+  "installPath": "/system/lib64",
+  "name": "android.media.audio.common.types-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 2763000,
+  "hash": "44944d49041e075bf7d905b2f0d15aa99768f29e89c51cdf555f1aa4a49ae566",
+  "installPath": "/system/lib64",
+  "name": "libclang_rt.asan-aarch64-android.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 77744,
+  "hash": "30ecd058df683c9a045c3ffb26151f08b12da9088d91c1cd56c16fe5e5313744",
+  "installPath": "/system/lib64",
+  "name": "aaudio-aidl-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 37168,
+  "hash": "fced8f9b4bea9a5f65f048586a0c90fb71e5530e5f70d4d28acaaaa46765cac9",
+  "installPath": "/system/lib64",
+  "name": "libheadtracking-binding.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 202288,
+  "hash": "f02e0a0a4fb059520ec44c8172d8ce94d3b4ab92c41537337f8fa3ab78919c2a",
+  "installPath": "/system/lib64",
+  "name": "libvulkan.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 95616,
+  "hash": "ecf8a618a8f345c5793b0563775a72088f634e479205a97de154e4e489161add",
+  "installPath": "/system/lib64",
+  "name": "libsensor.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 28760,
+  "hash": "863dc09311da01679872f2eef459ccdf0b33acbe44a1f62c4de9955374d5dc9e",
+  "installPath": "/system/lib64",
+  "name": "libaudiospdif.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 785464,
+  "hash": "0d5e92393181a41ca492593bbb945d3a156a98e537120acf11e6a44cf45edbe7",
+  "installPath": "/system/lib64",
+  "name": "libdng_sdk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 9069120,
+  "hash": "af01a82c010e298bb59565857376852d43ecb590b243a4f4e9209ce73aca3903",
+  "installPath": "/system/lib64",
+  "name": "libhwui.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 32224,
+  "hash": "9b60dc956252e4b3fc7368b42418ec803af2e0123cbb8cf5e0d0ab1227083e1c",
+  "installPath": "/vendor/lib64",
+  "name": "android.hardware.graphics.common-V5-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15520,
+  "hash": "da067456eb6b56e94661615dcc185079148790e1a68fc16702af5a0e255f4083",
+  "installPath": "/system/lib64",
+  "name": "android.media.audiopolicy-aconfig-cc.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 198936,
+  "hash": "8ad1656e4cbebf2dd151e6509736095fd0af33f7eaf885c21a9d0276438eb94a",
+  "installPath": "/system/lib64",
+  "name": "libandroid.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 95472,
+  "hash": "112a436a51c9995564aeb3113403b7b563359472aa39bef6b0d3f6624a7afa11",
+  "installPath": "/system/lib64",
+  "name": "libsoundpool.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15240,
+  "hash": "4ce32d22e23881f4774834ba189a0e3eb8435ceb7ae8e0329f4cc1420240d047",
+  "installPath": "/system/lib64",
+  "name": "libprocinfo.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15352,
+  "hash": "044326dbbd19ce24a17a69e0f5bbcc3bcf3a9dad624a0a790a8be5357baf257c",
+  "installPath": "/system/lib64",
+  "name": "aconfig_mediacodec_flags_c_lib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1276048,
+  "hash": "d00b533a636ac39bc326c96c2042ed3a740013715c62785d6da3834581bc7241",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio.effect@6.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 37200,
+  "hash": "40abbe654c6f388441a40b093dec4a8c3525729ea8a276998a16906923b58fc9",
+  "installPath": "/system/lib64",
+  "name": "libsparse.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 25056,
+  "hash": "67d818c54b6e2e16292d46c89cdfbbb7ffea36958116b64a52d9dd016b17ee22",
+  "installPath": "/system/lib64",
+  "name": "lib_android_keymaster_keymint_utils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 46280,
+  "hash": "c24a4a3fc95fd3ceab0c398d93de1b16adbffc268132de8313e7ec44e71c9c66",
+  "installPath": "/system/lib64",
+  "name": "libdebuggerd_client.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 125304,
+  "hash": "eb3f5582681627d959e748289303af695adea69e7171160f9cb1e585fb6e4496",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.gnss.visibility_control@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 28296,
+  "hash": "ba306c6ecd281ded9d01e5459d3acad99dc640b0eb7602ff75b2aaa24dc81b24",
+  "installPath": "/system/lib64",
+  "name": "libhidcommand_jni.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 160112,
+  "hash": "4a89521975eca6688e6013f5da5de36d1f9ecfdaa4470a0cc1fed0a40aa28f38",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.biometrics.fingerprint@2.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 46408616,
+  "hash": "84e6569ed6a433419753e38974d5a869b7dec2585463e700f8974a819e764a19",
+  "installPath": "/vendor/lib64/egl",
+  "name": "libGLES_mali.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1869312,
+  "hash": "798f344ede026513a2a327c715888fb624ac3f1d19b383c1c4d4bd84f6612f01",
+  "installPath": "/system/lib64",
+  "name": "libinputflinger.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1122584,
+  "hash": "3d9bb3bbd56bff8a2d8ee1523c1f80d31d0e9560ee4e0add9b3f551be5634b73",
+  "installPath": "/apex/com.android.runtime/lib64/bionic",
+  "name": "libclang_rt.hwasan-aarch64-android.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1470224,
+  "hash": "c64ef20b12a688489ddc97e6c91b1d877bed84c36069a4234e0d9ce371d665f1",
+  "installPath": "/system/lib64",
+  "name": "libmediaplayerservice.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 28616,
+  "hash": "3a744dd2a128fa226faaf26712aec85d0c7b42da5d3c928896eba92639df1f62",
+  "installPath": "/system/lib64",
+  "name": "libuinputcommand_jni.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 75664,
+  "hash": "1851d75fdf453f79004900158d16963d8be71121e64618407f53ca06436bdb0c",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.ir@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 23968,
+  "hash": "cb9be83548d6f61713c0aa37a06bc25dfeccf827da9ce9d299eaa3d82d52033b",
+  "installPath": "/system/lib64",
+  "name": "libstagefright_surface_utils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10672,
+  "hash": "3258065fdca3bbd6fa90b56a7143074c1b9f176d7c5271e8adbea88efa29bcf0",
+  "installPath": "/system/lib64",
+  "name": "libcrypto_utils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15000,
+  "hash": "4c58a7eacca30ea1948dab8fac401997d739c4b2db5ad05deec70049a7c83c8a",
+  "installPath": "/system/lib64",
+  "name": "libstdc++.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1080240,
+  "hash": "e1a0300cdda8ea01adbf06cb7f6857654bdb629f9ac1f078f6bf0aef30688ea3",
+  "installPath": "/system/lib64",
+  "name": "libepoxy.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 111792,
+  "hash": "112c790d40466a4af5b62eb46b24b2cdb074fe32459d281d3405323eff1423dd",
+  "installPath": "/system/lib64",
+  "name": "libkeymaster4support.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 696416,
+  "hash": "326bfd3077528677218262a9d948a47d9ce7d4cab6d742e40f6d9e0fd6b17d27",
+  "installPath": "/vendor/lib64",
+  "name": "libc++.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15472,
+  "hash": "5b5cd5a1099f3c2be776f6b20630abac276988b5a21bab438d84119d895bcaa1",
+  "installPath": "/system/lib64",
+  "name": "libaudio_aidl_conversion_core_ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 252056,
+  "hash": "c716a2bdeb2854cc9c7af8ccd1094d924ba77d1452f24e38060607f36a06da70",
+  "installPath": "/system/lib64",
+  "name": "libaudiohal@6.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 31488,
+  "hash": "652e7fff84291ba8de6f4e92bf98954afbc9fdbd34f78e51a0d54029b645d262",
+  "installPath": "/system/lib64",
+  "name": "android.companion.virtual.virtualdevice_aidl-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 80928,
+  "hash": "49be333941f87ab3e3a39cc18dfd935f0dbfb73ec59c1bade9fb834d20eeb3d4",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.power-V5-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 282264,
+  "hash": "eb6503bbc18ae00d8337f5260e225264dd01989e85f91b9dd1b82cf477d04d5c",
+  "installPath": "/system/lib64",
+  "name": "libaudiopolicyenginedefault.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 129064,
+  "hash": "40e94536b57c340f9b5b6949917f1cb9d7594a1bfbe21c0da9feb689c4e05457",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.security.keymint-V3-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 24944,
+  "hash": "bf5eae34addc48e679c7c73a3fda8acfb301575edf249384e4616fffbd9a430c",
+  "installPath": "/system/lib64",
+  "name": "libmediadrmmetrics_consumer.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 523560,
+  "hash": "db90f6d1da442c00d5c5f5f92a93cb6f7bc71d48b1baef659db3df675a0492be",
+  "installPath": "/system/lib64",
+  "name": "libfdtrack.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 90784,
+  "hash": "c7e8195dfe052252fd4d892e3839e1cd0e69e5961e13c3a44763c12567752b3e",
+  "installPath": "/vendor/lib64",
+  "name": "libdrm.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 168568,
+  "hash": "52625dfc6b8597bc7d5c7888bc21d8a01a94d342e36127eee866b7537df2ba6e",
+  "installPath": "/system/lib64",
+  "name": "libstagefright_aidl_bufferpool2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 613136,
+  "hash": "dd1bd784262d4e568938c07b141c3c9161126c3a0a7504476c9718d3d347f510",
+  "installPath": "/system/lib64",
+  "name": "libsfplugin_ccodec_utils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 130008,
+  "hash": "e9b686cfcb67169273ec0406e0240e7d7f422e3d6d5b2a83be9358d29191931c",
+  "installPath": "/vendor/lib64",
+  "name": "libutils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 59144,
+  "hash": "40fbc236e8c147426e962104befd3f1d1a32b7d6ad161e2c5abfae43f497bcbf",
+  "installPath": "/system/lib64",
+  "name": "libsensorserviceaidl.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 49944,
+  "hash": "bdfbb31c57980c19575048efe8f8969868d44cb9a338a38b97c73fb318ae6cb1",
+  "installPath": "/system/lib64",
+  "name": "libprotoutil.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 324208,
+  "hash": "0fcfcfa6c53f4380a4f447af46aea71261fb64e00b3607eae9bcb73255ba9a34",
+  "installPath": "/system/lib64",
+  "name": "libpcap.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 570312,
+  "hash": "539260fcd4124980b1486d6d923ce66c036db968349a7f69f2e4e6e68f6f221b",
+  "installPath": "/system/lib64",
+  "name": "libfs_mgr.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 445272,
+  "hash": "792802bb69e6937a89c6d759cff27383e2fc80e92ed09603abfe559df443b8cf",
+  "installPath": "/system/lib64",
+  "name": "libsensorservice.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 270688,
+  "hash": "f0a25117c8d0d0de7adeaf5a900b065a01e2588a2445c67f8e779e3549ef389f",
+  "installPath": "/system/lib64",
+  "name": "libresourcemanagerservice.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 86304,
+  "hash": "03e981726569d45d514c9b0bb56e5b000167d2c2fd1bbea7d2c0d1725e9723f0",
+  "installPath": "/vendor/lib64",
+  "name": "libgralloctypes.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 107168,
+  "hash": "c2c133c9604fac74f2d9848754838c256d2342f92d37c9eed63f30cde2d2143c",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.power.stats@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 121144,
+  "hash": "9383376638841b933e9da327c56e07b19887459367c74ec6748e912c30e49c64",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.gnss.measurement_corrections@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 46504,
+  "hash": "8cdac92339de11167fe3bd4d8d4de3f8581a40939938ee5d20d3b242dad43605",
+  "installPath": "/vendor/lib64",
+  "name": "libmetrics_logger.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 805728,
+  "hash": "2f2058be1b623a8bcbfc2b2714e7e985ab9db9708c92790bb268cae76439b0f2",
+  "installPath": "/system/lib64",
+  "name": "libsfplugin_ccodec.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 376640,
+  "hash": "136bcf456885c37f9564d4329daedad77491cec35214ff713f020b511ddefc15",
+  "installPath": "/vendor/lib64",
+  "name": "libprocessgroup.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 20168,
+  "hash": "661e439d367f04910515f4b359e41bb2219febefb84f9326eadf48dbec4c20a1",
+  "installPath": "/system/lib64",
+  "name": "libbattery.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 172704,
+  "hash": "9ca4656ea18a0773b9dbbc11766f7bba40b3630f831e07c1e3d2f952f066d058",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.media.c2@1.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 49608,
+  "hash": "cb4ce9ae259121012c7df383c9d3d976c9a4601bcd72c15a2c863d0cce4a97e7",
+  "installPath": "/system/lib64",
+  "name": "libappfuse.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 41792,
+  "hash": "a62b594c21131ce55726104850e039d6112238e88402660d6f73ec092b68ae40",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.memtrack-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 115552,
+  "hash": "0cb7d8efcf15c4a9c455e39228f3d18c50ca2e8d43ade2041891a3875b413e35",
+  "installPath": "/system/lib64",
+  "name": "libiprouteutil.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15104,
+  "hash": "e44f0f95c5d4e5cdb6d1297e65cd43ea0076bd622e2c0509531e1cdd85de8afb",
+  "installPath": "/system/lib64",
+  "name": "shared-file-region-aidl-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 289384,
+  "hash": "89390d7651276e7af5b74ec00cf65734e49b8ec9b78997a6d1e13e8f942b8c59",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.broadcastradio@1.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 36608,
+  "hash": "a539d7ea768aad456234863b2b77d39cc0d98f31fc3c87ede9a94a4330979d9a",
+  "installPath": "/system/lib64",
+  "name": "libadbd_fs.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 281880,
+  "hash": "4733900046620429f19861b83e94754ef843963703f81f9b913ed39577d0707a",
+  "installPath": "/system/lib64",
+  "name": "libwilhelm.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 107400,
+  "hash": "3fe453ddf0eb0543a87a9e703fa5b113f3aeae3fb3eb9bd0542828000bda4159",
+  "installPath": "/system/lib64",
+  "name": "android.system.keystore2-V1-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 216176,
+  "hash": "497d96f331e55b37c1d2d62ac1d77d620f5d247141e4f55029079bdd128648ad",
+  "installPath": "/system/lib64",
+  "name": "libapexsupport.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19560,
+  "hash": "b08ecc6b7504fb4b5726057ef6c2242aeb0479258db160a7a39ada224ca17563",
+  "installPath": "/vendor/lib64",
+  "name": "libion_google.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10736,
+  "hash": "4445b89daaeda54812aa28a446d6981419fdf7d5d73dc097cc663fd3839f8743",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.common.fmq-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 2354784,
+  "hash": "660e18f4c78d0384ab6decf740261f555dc0608b0f7b80eda13c52d2f13d0ad4",
+  "installPath": "/vendor/lib64",
+  "name": "libgpudataproducer.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 816192,
+  "hash": "a8675c0b074fa79b795ce6910fd68fdb32bd97b5d100dd0a9b3d5080aa950c68",
+  "installPath": "/system/lib64",
+  "name": "libbinder.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 38032,
+  "hash": "46dc667196a3e8141a2df1dd3ca851b63f636c798590b24445649e32dedf3479",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.security.secureclock-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 46416,
+  "hash": "51ebba8108d21f219071d09bca078ec335dfc7aaf5df887da631bf522d3d8915",
+  "installPath": "/vendor/lib64",
+  "name": "com.google.edgetpu_app_service-V3-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10416,
+  "hash": "4ba1b487e07f1815c3f3bce0c64fc7f398ece12fc462569bbedf08f87d1c3bca",
+  "installPath": "/system/lib64",
+  "name": "libthiserror.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15600,
+  "hash": "fefb50457a1f9ea6f11f4ab8a93dc8d5a53568227b662a3a34711abf7f02b812",
+  "installPath": "/system/lib64",
+  "name": "libcgrouprc.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15240,
+  "hash": "dbea53d6d574831f6c9d738fc48849a251b5830f8e049d2d98b21d2f95122342",
+  "installPath": "/system/lib64",
+  "name": "libOpenMAXAL.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10584,
+  "hash": "5e66ac84b0c549e75f8273d4fea374b2a213e5574ddad0b76b76e57856cc8dee",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.camera.metadata@3.3.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 817976,
+  "hash": "85f8f13df6ac229767aa3a56e72d55d3959702f970351038a5d40f17d0d6d6d5",
+  "installPath": "/system/lib64",
+  "name": "libandroid_servers.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 2401352,
+  "hash": "ccb3728391a277ec496405382d5ccc9a6b33dcd6af0583ca8ad765cff319d1bb",
+  "installPath": "/vendor/lib64",
+  "name": "libedgetpu_util.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 188400,
+  "hash": "add21d2ebfc36805696f5b7fc3bdd1e52acbf743cae7b47e73a5a306fc4dbd5b",
+  "installPath": "/system/lib64",
+  "name": "libincfs.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1274880,
+  "hash": "ae001281f27ccd6f3dc289393e3498227b5e490e996abc20109f6bafc3ee4770",
+  "installPath": "/system/lib64",
+  "name": "libperfetto.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 28120,
+  "hash": "850331624e21b3ec3904237f5356430d16dd9ea1c8c982d0e8200c59f0124a3a",
+  "installPath": "/system/lib64",
+  "name": "libbatterystats_aidl.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 134216,
+  "hash": "637b5ac5426bb9d37d59452d9293655f30bbb8b83bafe59ef607bb0d3ff9522d",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.security.keymint-V1-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 478968,
+  "hash": "5df7e441cb0b08dae7cb13ab4874ec460779cb6cc9687a6a015db5107cecac34",
+  "installPath": "/system/lib64",
+  "name": "libjpeg.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 89680,
+  "hash": "5fdf9f750e4575288c7a59794aa4438cd1724aecb37a9cf3c00f875be860c4f8",
+  "installPath": "/system/lib64",
+  "name": "libmeminfo.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15944,
+  "hash": "5c76f5d86421daca60c9c0576c089db2b22c37fbc8d9b68065e3f1dece3a8b36",
+  "installPath": "/system/lib64",
+  "name": "android.hidl.token@1.0-utils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19376,
+  "hash": "3cfd844f7be574c1da2009c054fc6b44aa462e7d09b029bec5208e05d6c42b9d",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio@5.0-util.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10424,
+  "hash": "a5373b9b2fbb61dac25e0dc3a930caae2e646570a9e64b4fab4c669bc5f5da2c",
+  "installPath": "/system/lib64",
+  "name": "libnum_cpus.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 249408,
+  "hash": "42898f050c1ef097806f660f7936bd447044863d44dcb3c798c930153f06b4f2",
+  "installPath": "/system/lib64",
+  "name": "libnblog.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 121312,
+  "hash": "a6a088f58f6685584e2207fb9ef353ceb57c59bee17b480980fd52260e7db7f9",
+  "installPath": "/product/lib64",
+  "name": "libdmjavaplugin.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 2166920,
+  "hash": "de63bd17c3f913165513eb7b7ba55e4300305c86b80eb96e3137b6d7c808bb86",
+  "installPath": "/system/lib64",
+  "name": "libprotobuf-cpp-full.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 370432,
+  "hash": "7e148adfe74abb335a4dd72ad595118cef107fdd29b13c25b16fcbf356751438",
+  "installPath": "/system/lib64",
+  "name": "audioflinger-aidl-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 50872,
+  "hash": "5d52c75b86ce39adbd763413a271db222392ede614b9bb3fb73b826f15a28180",
+  "installPath": "/system/lib64",
+  "name": "av-audio-types-aidl-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 551768,
+  "hash": "3b0140830bf6ef07ec0db99f1b058cba0bd239a428825f1090d79d516a1d6250",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.gnss-V3-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 80664,
+  "hash": "1ee6de73495911d31434647a88a9d9231e3dd311a0063266a3ee4ddf67a46f0c",
+  "installPath": "/system/lib64",
+  "name": "libcodec2_hal_common.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10416,
+  "hash": "7051fc3df989361226b866b840a17dfed39ee2368ad7234f1e1b70a6529223f2",
+  "installPath": "/system/lib64",
+  "name": "libmemoffset.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 37168,
+  "hash": "11b47f42292e389b1e166c7655403b054f7158866d5c52d772bffb3a1f7f24eb",
+  "installPath": "/system/lib64",
+  "name": "libaaudio.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 42136,
+  "hash": "40c2684262c2474fb796b6d0713f0bb358c721eaf317eba3afc38a17b3483f2c",
+  "installPath": "/system/lib64",
+  "name": "libmemevents.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 590368,
+  "hash": "b0bd804c4cbdc746da59cea970eaa3ddc2f8eab63677e7d526c6a27e023f71af",
+  "installPath": "/system/lib64",
+  "name": "libmediametricsservice.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 109608,
+  "hash": "ab6c43c60c1b47b5b51cffbc4214801c59379505f571a0ca92f342ebb3823a02",
+  "installPath": "/system/lib64",
+  "name": "libselinux.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1269576,
+  "hash": "eefb0c13ba4085dd8ea32fe3a574219d502acf94d54691f02948392f0180ad11",
+  "installPath": "/system/lib64",
+  "name": "libxml2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 51592,
+  "hash": "510df4a38b0b541198fdc86783df4efc295d671b852bf54303d22c81c5f67886",
+  "installPath": "/system/lib64",
+  "name": "libgpuwork.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 99720,
+  "hash": "81c0a68bb2d74642cf1801505b6def36cec943f078e4a2efaf9c7d2796543313",
+  "installPath": "/system/lib64",
+  "name": "libcutils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 84168,
+  "hash": "25a71e9fd598e326eb0b298c0a783bac4e4f6513c9d08348f54d934c31eb4540",
+  "installPath": "/system/lib64",
+  "name": "libSurfaceFlingerProp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 79256,
+  "hash": "67a4fba4ed46baff8dc6fbc29e7c03934be6e71850c4cfa38f5b3c39b977afc0",
+  "installPath": "/system/lib64",
+  "name": "android.frameworks.schedulerservice@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 116608,
+  "hash": "d1a83eabc6d147e0b3943dfc922599ebf2ba6af1f4710e5b5293bdaf401571f6",
+  "installPath": "/system/lib64",
+  "name": "libremote-processor.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 20984,
+  "hash": "1704ee03255d7d46fa2471fd07fc3235affe64556a2e549952e41c0001eedb28",
+  "installPath": "/system/lib64/hw",
+  "name": "android.hidl.memory@1.0-impl.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19480,
+  "hash": "6e815e2925328e801fd441f2eb94a5a5f8e523c5b3ae012793d32007768dddbc",
+  "installPath": "/system/lib64",
+  "name": "libext2_misc.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 23128,
+  "hash": "50a97dde87babef209880b50d6a1674ba06bf6aabf1f291715a12be6f369686b",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio.common@6.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15048,
+  "hash": "7a649ec5bc5c1cca8bf07095c0b4242bdac001b9f6b24e66ed71bd67dd56ede8",
+  "installPath": "/system/lib64",
+  "name": "libradio_metadata.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19464,
+  "hash": "1b563f92e3ca1531ca0fbda8ddca412002b64a7853144d9cd856e64a71be57bf",
+  "installPath": "/system/lib64",
+  "name": "libshmemcompat.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 67272,
+  "hash": "a35eee77808ca83709d014b52366c5e081c58cd0afbe613dfc84b74c1a0e2cfb",
+  "installPath": "/system/lib64",
+  "name": "libbpf_android.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 20384,
+  "hash": "84dff943fc04b1abc122bce7462f66192723c791ff8a16c783987afe5793c4fa",
+  "installPath": "/system/lib64",
+  "name": "libwebviewchromium_plat_support.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 648136,
+  "hash": "827d92d2fa4e95369ad103a12aa0fdcbab46d0160fc5eb2a70ebc8bdad7c6359",
+  "installPath": "/system/lib64",
+  "name": "libmedia_jni.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 24304,
+  "hash": "1702562a7645e211e6fe81c8b92f6affeec104afe0db91a5a7e90a4d72bd3e51",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio.common-V3-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 227288,
+  "hash": "7b7b342f753b2c4e82d89e981f51aaefb668904efd346d651b9967429c017b1f",
+  "installPath": "/system/lib64",
+  "name": "libRSDriver.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15488,
+  "hash": "c2bcaa7ae71b2d2b57ed8a6796c53eec0194b997de55ff1ebeefcc12df6734ea",
+  "installPath": "/system/lib64",
+  "name": "libaudiousecasevalidation.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 52968,
+  "hash": "5534203386fd078fcc8c20ca3ded8f056a479317fda3d2abe8b60606d9aca542",
+  "installPath": "/system/lib64",
+  "name": "libext2_blkid.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 97864,
+  "hash": "d729d5e12618442a5843fb393e5a412099098470275d37162d4f0e1581953adf",
+  "installPath": "/vendor/lib64",
+  "name": "android.hardware.graphics.mapper@2.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 51136,
+  "hash": "671df6351dfd395c9c50be94817e3c9ddaa6335ea472758b42627d2d3a03d23a",
+  "installPath": "/system/lib64",
+  "name": "android.security.apc-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 52464,
+  "hash": "f30f3a48ca503fcce7120f95ee5c098d00d07021496d1bbf3f0423c64993d086",
+  "installPath": "/system/lib64",
+  "name": "libbpf_minimal.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 552544,
+  "hash": "79d57f35aa1529279ca15a76f1df7bfa3127557100082792e6b07f4ea44a08a8",
+  "installPath": "/system/lib64",
+  "name": "libstagefright_httplive.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 35736,
+  "hash": "e7d8efa28f8d8f64f4d3cb0783d26ab11e2f1b2bb7cb897e146f232839a1fd9a",
+  "installPath": "/system/lib64",
+  "name": "mediametricsservice-aidl-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15688,
+  "hash": "b3767eb613185a1ef93bdc13e1c77514df245838af2b84222151d95a6b2375f4",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio.common-util.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 423624,
+  "hash": "ffb81911fbb688553ffd4ae07add121d54cef006ea1a797dcfd83280ded922cc",
+  "installPath": "/system/lib64",
+  "name": "libmediautils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15392,
+  "hash": "790595ee967283327aecd73b9c994a0ab4159b542fe1ea7fcd0faaaba5990035",
+  "installPath": "/system/lib64",
+  "name": "libbrillo-binder.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 20088,
+  "hash": "40afd1b19061125bf06e891c0af7328384573f8e19167c31324ebe63fe3796dd",
+  "installPath": "/system/lib64",
+  "name": "camera_platform_flags_c_lib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 409112,
+  "hash": "ef50917401a80bb6d67b6636ffc4232aa517c44d2776435629d6695175a787cc",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.media.omx@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10600,
+  "hash": "bd34475cd37871382a402393b71652d97314544c00d70dd29c566654a720f020",
+  "installPath": "/system/lib64",
+  "name": "libvendorsupport.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 14872,
+  "hash": "dc866da73ad5d23254545862150cf3d3b00dab29151531c4c4305dfa44e327fe",
+  "installPath": "/system/lib64",
+  "name": "libcodec2_hidl_client@1.2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 146960,
+  "hash": "fa83a9d914a3bf82df95570bfa3b1299b9586eb49c4fb9c4c6efea520ff348ca",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.contexthub@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 75248,
+  "hash": "b9aaf10d138bf3524b95b73ebba38090fafc28fbf0c439469c3d586d97c8d3d9",
+  "installPath": "/system/lib64",
+  "name": "libtimestats_atoms_proto.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 102512,
+  "hash": "7ebc9771b4e77d76c7fbed9cf236e76338971d8ec690caf08826ad3a7adb0dab",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.configstore@1.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10568,
+  "hash": "d3a5ec94b15ad8a5d8a4c3756575c021480ab1e57e2a4a2d2f179b19e1d0e15c",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.common@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 77592,
+  "hash": "5b0ac9c141bb71b3728915ee1397d6cce78e5b06734608157c2f07b5690524cf",
+  "installPath": "/system/lib64",
+  "name": "libmediametrics.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 103416,
+  "hash": "fb70bef0d895deded3775f3a28e2f822e6af2485985185a7d3670fae9d147dd1",
+  "installPath": "/system/lib64",
+  "name": "libmediadrmmetrics_lite.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 79672,
+  "hash": "03542ebd378812d6fccb429d9d693500d4dd7579f63f45ab7b578cfe7194fb62",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.allocator@4.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 341104,
+  "hash": "be54e2ef53e75179e5f9efcf9958c4723687a173cedf46a1f43529a22c80872d",
+  "installPath": "/system/lib64",
+  "name": "libevent.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 68120,
+  "hash": "f5bca416551d4b07b680d4bdb9337ceb34f8a3d6a7db0a8cdd134cb10521d1c9",
+  "installPath": "/system/lib64",
+  "name": "libRS.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 598288,
+  "hash": "4f27e3438f9d47b966f7f720d74dc2f057253136c63c06d43712b55bdf519753",
+  "installPath": "/system/lib64",
+  "name": "libaudiopolicymanagerdefault.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 299072,
+  "hash": "93fa0a0638dedd889e5d354a5c2b442eccc14d4e83b39bd0ccbfe6286a80aea2",
+  "installPath": "/system/lib64",
+  "name": "libaudiopolicyengineconfigurable.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 136768,
+  "hash": "95fb34404869fa2a1109ee39ca35594663fa0617e32456793e7930037ed4c6f5",
+  "installPath": "/system/lib64",
+  "name": "libcodec2_aidl_client.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1458552,
+  "hash": "d5a261844386dfeb2d2d507ae4c8596778362c9817c2231655f52dcc3b64cd43",
+  "installPath": "/system/lib64",
+  "name": "libinput.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 40400,
+  "hash": "f8aa99ceb015f3982e0c159a6d2eda9e9252091d7679558599a99e845444e619",
+  "installPath": "/system/lib64",
+  "name": "android.system.suspend.control.internal-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 260760,
+  "hash": "069fa91d050964a08ddedda1015ee372039963a3e736ec4bbe888b045af98892",
+  "installPath": "/system/lib64",
+  "name": "libstatslog.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 45376,
+  "hash": "efb9118c8d0143cf5cb841fbf978fca9f87d088b2f9d62fb2b2f47c881a28597",
+  "installPath": "/system/lib64",
+  "name": "libeffectsconfig.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 102144,
+  "hash": "c38d8e5f1f554c294f8f4bd5e71dcbb9bb2a92d3065100d1981871dedc6447a9",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.mapper@3.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 51024,
+  "hash": "9ce69eb4b7c7fc6ab95da743c1a617a288399ded69c666bb60ab310c5be5b6b1",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.confirmationui-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 64936,
+  "hash": "70a6c27291786b6a6aed497a590252bc95e3587f7d3b68087aad728cfe63cc9a",
+  "installPath": "/system/lib64",
+  "name": "mdns_aidl_interface-V1-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 73624,
+  "hash": "d6b525430615a58feac5cff88eef53b37d963ddde954ca648da2e93781807b78",
+  "installPath": "/system/lib64",
+  "name": "libaudioflinger_fastpath.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 29792,
+  "hash": "0307f6945431f905a5d609b9458268618b3fd33f8ceb9d4f122ee6d835d5b745",
+  "installPath": "/system/lib64",
+  "name": "libhidlmemory.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15672,
+  "hash": "0f8584313d792c67f48d26fb7088832e6d195724da6920bac408a788a2960a0a",
+  "installPath": "/system/lib64",
+  "name": "libstatsbootstrap.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 23128,
+  "hash": "f4b9dd3757cf6ad555b2f3e285ee68619eecb684552cde11f6fc12bef5cc03d5",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio.common@5.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 31168,
+  "hash": "4549739e33da8588354f6ee332b8fc7c32a8ed1686f1bc77e0bf731a681f88d8",
+  "installPath": "/system/lib64",
+  "name": "libaudio-resampler.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19264,
+  "hash": "561c53f179639ceb4f9f5fd20106057d1f1943e8fb223cc057f1d06676455fb8",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.common-V2-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 82120,
+  "hash": "d2ced02bef4d79dfa151cbe0975007d23e5c8bf8934ff348d1237aef748a575b",
+  "installPath": "/system/lib64",
+  "name": "dnsresolver_aidl_interface-V7-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 50176,
+  "hash": "f5227e0a4cacbb0bb374f6be762003c49d5a6d14d1638ef37c90b6fd2d397199",
+  "installPath": "/system/lib64",
+  "name": "libdrmframework.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 104776,
+  "hash": "ad828bf8d18a0417abeac814a1dbcc7fbcef394fef3b523c5b7047745e37ac6f",
+  "installPath": "/system/lib64",
+  "name": "libGLESv3.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 267528,
+  "hash": "9569c6023fc28f3f7ff399cc251fbe53fa4a8ac874ffaf6619c757c176d71e1c",
+  "installPath": "/system/lib64",
+  "name": "libaudio_aidl_conversion_common_ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 558080,
+  "hash": "147c3973d8a74a96b5e208c1a97b47bc0e4bbefa6a8778fc5adc809faecbf798",
+  "installPath": "/system/lib64",
+  "name": "libkeymaster_portable.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 40120,
+  "hash": "8a362db82e7853b41e0adeca73a5df897a9021d4b350a07ac2826743a73567b7",
+  "installPath": "/system/lib64",
+  "name": "framework-permission-aidl-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 63104,
+  "hash": "7e5df387f6bd102c221c09bc0271b85ed86f7b66dd7c3aaf472c2074201f80d0",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.power.stats-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 973816,
+  "hash": "a685aac7697afd415a4599cf5236cbd3279d4b64aa8009831e234725023684cc",
+  "installPath": "/system/lib64",
+  "name": "libharfbuzz_ng.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 60544,
+  "hash": "60fd70c5600095d4ddf33f2fceabb78a87573bd81e91137c571239b92f44f089",
+  "installPath": "/system/lib64",
+  "name": "libservices.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15280,
+  "hash": "9f363d0cccc0b61090b6e25c6cc103a3fc33b3f543c25f52dfb161fb3306dc7b",
+  "installPath": "/system/lib64",
+  "name": "libext2_com_err.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 528368,
+  "hash": "40405173e60816fd5808ce0ef598034ff50ef698df38e8dfe1b0c4ed4b80e39b",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.media.c2@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 296336,
+  "hash": "e2fa6b849df4ad069cd1e5cdef64dc6bfe89828ecd694d059f70fcabde193099",
+  "installPath": "/system/lib64",
+  "name": "libminikin.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 204512,
+  "hash": "54e32f7b57016b9c2eabc0535571537e2ec90807dc3dc23c66fb056f350c59b6",
+  "installPath": "/system/lib64",
+  "name": "libmedia_omx.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 118584,
+  "hash": "e7afa34eceb7e8f2f8416aea4d24d6910ba9087201a4d6c63761913c75175918",
+  "installPath": "/vendor/lib64",
+  "name": "libz.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 11056,
+  "hash": "572fd2dcc72993739ea708bb53fb6d295108b5603e11be514c56f3abca2e71c1",
+  "installPath": "/system/lib64",
+  "name": "libwebviewchromium_loader.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 211616,
+  "hash": "6472f56c10eab9521b66e80f90dcbd72c60428f745bbe3a161b853f569e080dd",
+  "installPath": "/vendor/lib64",
+  "name": "libjsoncpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19560,
+  "hash": "e9cbb6aef4b6c3dbc87534888eacbc081e01b8aed134cb7e8e4969cbe4493fc5",
+  "installPath": "/system/lib64",
+  "name": "libwifi-system-iface.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 114224,
+  "hash": "8c81ab676e77c5d816858458932a223b031911f97b92eb404d7227a24cea2307",
+  "installPath": "/system/lib64",
+  "name": "android.frameworks.stats@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 57760,
+  "hash": "e6ee322aba1ba49b540c8b0e577d4afcf1779826d9c8983347867e324b18b0bc",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.power.stats-V1-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 192872,
+  "hash": "6a505b7a42f3f81eddcb6d2f1c2f1375edc14368895880eba89f6fe58705c227",
+  "installPath": "/system/lib64",
+  "name": "libstagefright_bufferpool@2.0.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 102664,
+  "hash": "970c31bba44cec2e352d1688c0a937bad8f572b1df7c0a819648177ce00e94ad",
+  "installPath": "/system/lib64",
+  "name": "libnetdutils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 86984,
+  "hash": "c9b8c3b9835deae82e426774a78949c67da8ef002f20e6a5174245592850b10d",
+  "installPath": "/vendor/lib64",
+  "name": "libhwjpeg.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1011776,
+  "hash": "3dbd121ba00f1dd94d4ddcb248fa3404258b3e44af38f55197c50c8352b4ef55",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.radio@1.3.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10712,
+  "hash": "f20bef6a5bb327af839f57487fc69594b3fb9982e1d14fcd83e749c4bbb96fc7",
+  "installPath": "/system/lib64",
+  "name": "libsync.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1248088,
+  "hash": "68e986bfe58b024a64a0daa657eb6f143166300e401a254fde860c0f15e195ce",
+  "installPath": "/system/lib64",
+  "name": "libaudiohal@aidl.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 36888,
+  "hash": "1acbfa6ff316fea2dc0a2f9ca9f937077b39d7a5c7088dfe39af13a33630b312",
+  "installPath": "/system/lib64",
+  "name": "libaudioflinger_datapath.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10568,
+  "hash": "0bc96337d277b6f66d819513828cd7bc9ad1d70df1a40c5c4f0be3d25601cb3e",
+  "installPath": "/system/lib64",
+  "name": "android.hidl.safe_union@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 106728,
+  "hash": "e4a7117418bdcc35dc3a57a32092065517413105256920711eae1943d1e0bcaa",
+  "installPath": "/system/lib64",
+  "name": "android.media.audio.common.types-V3-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 32224,
+  "hash": "f75471261fb059dfaf048d4eda08b851cd4f4cce3cfbf9327641e4a0d873eecd",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.common-V5-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 66288,
+  "hash": "975ac5ca880087d3edca3ce3ec843c9d59020d6aa4e2248a26db2f1d1c3e9426",
+  "installPath": "/system/lib64",
+  "name": "libcppbor_external.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 23552,
+  "hash": "8fe82cdfd2eb04eb9103a43994e9f97604c758a9ae7e1f62bdedfa68f507c8b5",
+  "installPath": "/system/lib64",
+  "name": "heapprofd_client.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 202152,
+  "hash": "a27a26b045058fbb8941033ca944cf1275d050d292615859433592af9ba0e4b9",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.media.bufferpool@2.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 50680,
+  "hash": "b6aed6afecc5434a44ce711239229873497f00559da92f07f157e9b7430cb4ed",
+  "installPath": "/system/lib64",
+  "name": "android.security.authorization-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19680,
+  "hash": "382228b0b03cc8d52365f6654672d9c43851616ef4c155c62ea8fb03e97538bc",
+  "installPath": "/system/lib64",
+  "name": "libmemtrack.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 184056,
+  "hash": "492399ab9bd246494100ffa0b26d2e3f144319cac32e26da01fd83277475b4d6",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.bufferqueue@2.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 14696,
+  "hash": "fa8e220f8bbc3e94a8401f3fd831ad3a0ea2f835a24a739b34df6c4967342843",
+  "installPath": "/system/lib64",
+  "name": "libkeystore2_aaid.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 47776,
+  "hash": "ab66f7b55af722b46d54c63ce3c50106e5ccce4dcdf20c67d5ad8a8bba578e14",
+  "installPath": "/system/lib64",
+  "name": "libvibrator.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 244032,
+  "hash": "f4fcbd332f416467cdcc5e26fe4672f491ccfc1a0426b9b487a98a01a200f72b",
+  "installPath": "/system/lib64",
+  "name": "libukey2_jni.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 32360,
+  "hash": "1a99c7bd618f0b0633a78fb1820840b0e43c33bb9ca4c62eca72bffe2a67a296",
+  "installPath": "/system/lib64",
+  "name": "libtombstoned_client.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10880,
+  "hash": "95d9fc0b77b5e023711f2ee1af415232036d8663cd3806579082bed484c272d0",
+  "installPath": "/system/lib64",
+  "name": "libonce_cell.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 223488,
+  "hash": "7e0bee8f6385edb13a3cbd3a1e708da144343ee02cb54bec7274dfb3dfc89584",
+  "installPath": "/system/lib64",
+  "name": "libimage_io.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 24576,
+  "hash": "c4f80380bf60bdb855101f5d07fa46e8e2fceba13e233f1e922f23e3f955da2a",
+  "installPath": "/system/lib64",
+  "name": "libmemtrackproxy.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19232,
+  "hash": "847a83431da9644f4c84f21efd46e2c5ac8c1699e4036b876e9ad17d8594a724",
+  "installPath": "/system/lib64",
+  "name": "libmedia_jni_utils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 619912,
+  "hash": "67146c8d96b7e39edec01727c945319daeb8b27a7b5ea9db9deba5a12ef2f009",
+  "installPath": "/system/lib64",
+  "name": "libregex_syntax.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 919072,
+  "hash": "c7ba5e973eaa6625293b978680752434ee5b471ffb62af6645f7544fd1ae0bc6",
+  "installPath": "/system/lib64",
+  "name": "libandroidfw.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 20056,
+  "hash": "cc0315c530530cf701df10430650e30c28bf9e3da3e7c9d312d1975aaa3efda6",
+  "installPath": "/system/lib64",
+  "name": "libkm_compat_service.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19704,
+  "hash": "6880a32938f649635531d1352d9c3c78ef373c08a57944b6920f4adad2f2881b",
+  "installPath": "/system/lib64",
+  "name": "server_configurable_flags.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 104776,
+  "hash": "e68221b53fbef956a32245009c84552f66749af959ff662bc36661554ca070f2",
+  "installPath": "/system/lib64",
+  "name": "libGLESv2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 62128,
+  "hash": "9bd610b473de431e6eb78a52c2af5e7867bc70f48b612fbf2e25ad37f2cfc56d",
+  "installPath": "/system/lib64",
+  "name": "heapprofd_client_api.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 2275648,
+  "hash": "54c080c583e489595447ebff6ef067404772959528feb20b1028563aa8654826",
+  "installPath": "/system/lib64",
+  "name": "libaudiohal@7.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 553328,
+  "hash": "ff68500eca6351d80b395f38e933dd5a3a7f500602dcf22f09c318fb80b1f1e9",
+  "installPath": "/system/lib64",
+  "name": "libcurl.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 248352,
+  "hash": "3316c698f81131b98c7c36634e8a6cd30e9d636a2640441f7f672812c68b43a0",
+  "installPath": "/system/lib64",
+  "name": "libpowermanager.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 86304,
+  "hash": "92400fa2258c6c1836a3fdc47a9ed7044ce9939467cead8784b7f28073cef5b7",
+  "installPath": "/system/lib64",
+  "name": "libgralloctypes.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 609104,
+  "hash": "31fef61b29cd76103d51d6dcfa964ec240773d9ddbd5704300bee62771b24083",
+  "installPath": "/system/lib64",
+  "name": "libcamera_client.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1077024,
+  "hash": "e701d2a14d63799e2dac8d944410eb3d52c465ef84e33bd468a44d17c4998b2b",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.radio@1.2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1427160,
+  "hash": "b22a3e5439c787f2a258166a7cf0c870d8ae04dec9c0d3ef74790c9829565af8",
+  "installPath": "/system/lib64",
+  "name": "libsqlite.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 137784,
+  "hash": "5f5f5c7122c4d9756432082945a21d30ce07f5e950117cda65d6b55c42588660",
+  "installPath": "/system/lib64",
+  "name": "liblpdump.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10984,
+  "hash": "9512ba9de58272b37b8d5e49fcc3fe8276b156d1f406cbb855b940b97096dbdb",
+  "installPath": "/system/lib64",
+  "name": "libprintspooler_jni.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 36824,
+  "hash": "3a264fded354dd0cb11490ab6f911eac6ed96952be0ef053eed0df9e5d520f08",
+  "installPath": "/system/lib64",
+  "name": "libnetutils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 79752,
+  "hash": "3e55c5f967c485bf778d4ee9dd1bec4d8a6f37aaff3f8c05a309b25967cd17fc",
+  "installPath": "/system/lib64",
+  "name": "libkll.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10632,
+  "hash": "4b636e44a67a409adde4c9e46383e14c4e6628be9322ca8cf4e40740cf901cf6",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.camera.metadata@3.6.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 59120,
+  "hash": "aa1acac13464df89eebf567e3cd54195fe48e9807b3e3dd3d328ef3ab405cf7c",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.security.rkp-V3-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19632,
+  "hash": "2cf2de2fd5970bb5a2677d95e6c1f9e17d4550fd0e3c45da04c889f42dfd109d",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.input.common-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 35048,
+  "hash": "ae2bd097b77ca3a6dbcb5183d1fe84db54136b09185b52a6154e9a1c145118a2",
+  "installPath": "/system/lib64",
+  "name": "libkeystore-attestation-application-id.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 55704,
+  "hash": "5f436c82c09b7f154ea00c90043a560eea67f0e669fe3b6586e28d1f598e4a32",
+  "installPath": "/system/lib64",
+  "name": "libgbm.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 46384,
+  "hash": "148a967a027347870079c919914fc0dfc68fe8f8cd6b92ae031890025943c40c",
+  "installPath": "/system/lib64",
+  "name": "libkeystore2_apc_compat.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 121168,
+  "hash": "98cfa7324aaaa9ce03f5618a38492ad6739792938568bb70dac87e31874d6c14",
+  "installPath": "/system/lib64",
+  "name": "libtinyxml2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 73456,
+  "hash": "eabd6ef28799941e05f5f31dc6211d0e80407b1786d49e17f5a6b7ca31fc2f9c",
+  "installPath": "/system/lib64",
+  "name": "libbinderdebug.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 41736,
+  "hash": "df96ec80ecb060b9b74693efa615f7f629829ce241e4f8d0384c55c6fe91525c",
+  "installPath": "/vendor/lib64",
+  "name": "libedgetpu_client.google.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10632,
+  "hash": "56d73185926ce24bc74f651d3ba9cc17c803e745889acd9ae8eff42ef7f459d0",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.audio.effect@6.0-util.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 94144,
+  "hash": "2d8fc96bfb837634b55a9e947c43db63e9dc6a14628557e87056ce9e0cefbe58",
+  "installPath": "/system/lib64",
+  "name": "libstagefright_bufferqueue_helper.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 353076,
+  "hash": "29a78789cb2a859aede75390c4b4c23eb3ee86ca3c00d252f1cb7cda3c708d7e",
+  "installPath": "/system/lib64",
+  "name": "libclcore_debug.bc"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 133528,
+  "hash": "31f7ac3b63970c7585570c0e7ee6a34acd919b68ec00a9c216d2b919d42d7240",
+  "installPath": "/system/lib64",
+  "name": "libnativebridge_lazy.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 42136,
+  "hash": "8e5956d6abbc8d0431901942ec27cb05c3b3349c7329922a4dd7f33004a33ce7",
+  "installPath": "/system/lib64",
+  "name": "libvintf_jni.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 210904,
+  "hash": "874801c83a368328249c175da7909df03d51554fae81621791e9b160dd13b648",
+  "installPath": "/system/lib64",
+  "name": "libaconfig_rust_proto.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 343640,
+  "hash": "dbce43453493e35830f09a8f0077b96676fb7ececa1b34aa776b149e31cbf1f1",
+  "installPath": "/system/lib64",
+  "name": "libRS_internal.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 24976,
+  "hash": "1244dbbc7ca9de45ea31db93e9ad3e2d883c3c864a4c06c6f48f0a85865890ad",
+  "installPath": "/system/lib64",
+  "name": "liblog_rust.dylib.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 86008,
+  "hash": "93ff41c06e134b0460ee7293fb4bed09ccf80f0db5b40e6b758bb92bdfc0ddad",
+  "installPath": "/system/lib64",
+  "name": "libstagefright_amrnb_common.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10584,
+  "hash": "1ec83bef52e7498ee10fedfa06b1f66da82a075426cc90efffb89bdadefbd9da",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.health@1.0.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 31608,
+  "hash": "502232e76dc12a82a2596a0d3bbc71253ec5117dc7041fced21338a3d499824a",
+  "installPath": "/system/lib64",
+  "name": "libtracingproxy.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 1225008,
+  "hash": "f8e4e124418c4123d663ec650b4c5f112bfb6675b77d708b47a6ef7ca2b8c795",
+  "installPath": "/system/lib64",
+  "name": "libbcinfo.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 40184,
+  "hash": "4cd74063bde0cefc214c981160c03831200e53465ac51ac79cbd0d6e6d68ff87",
+  "installPath": "/system/lib64",
+  "name": "netd_event_listener_interface-V1-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 52088,
+  "hash": "40e0c12f9d4b9e3f05aee554c29275f8f722fcbb4ef7483f9257c3d59e16613a",
+  "installPath": "/system/lib64",
+  "name": "libsensorservicehidl.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 228624,
+  "hash": "fa170d8048a1eb896e2ff0df1aea0bbf6b86a70d3f630003570a3072a04a05dc",
+  "installPath": "/system/lib64",
+  "name": "libidmap2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 84520,
+  "hash": "90a1c122b09c94185a8716365f5f83354427b6458ab90b6db7a9d65a5a8efc1d",
+  "installPath": "/system/lib64",
+  "name": "libheadtracking.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 98872,
+  "hash": "9dc1d3b1ec087e90978d1c35b78318d7a76b9e4aa12d261400a6ff24ce304251",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.vibrator@1.3.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 48928,
+  "hash": "68d5812a97a37c80b8a40f39ee91e80ec97c0912420dde89aee0cdd86c0084d4",
+  "installPath": "/system/lib64",
+  "name": "libsysutils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 33544,
+  "hash": "b426264bd846b0a80812ec5e06a7229488636ee7854645e53b38abc7687a9cb0",
+  "installPath": "/vendor/lib64",
+  "name": "pixel-power-ext-V1-ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 359248,
+  "hash": "9358aa9b06163e0f8409ef00b8a18804663eed8a4f94c7af6f317e41faec19c8",
+  "installPath": "/system/lib64",
+  "name": "libaudioclient_aidl_conversion.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 211616,
+  "hash": "74ef098becaf369091fffcf9bb4d661d14a77bfc6316cb079a722759314c7684",
+  "installPath": "/system/lib64",
+  "name": "libjsoncpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 42288,
+  "hash": "e04b0f6641794921f36d2458153e51fb198d3cdea255ee4485cf18625c778d82",
+  "installPath": "/system/lib64",
+  "name": "libaudioflinger_utils.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 289664,
+  "hash": "6e0725d25b431255a9516d582d47ed11566261956498b093557ba66441bd0486",
+  "installPath": "/system/lib64",
+  "name": "libcamera2ndk.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 19744,
+  "hash": "73fdd0e893511a3105bcacbe90f9fb9a4750f80450140f62ee0883361b7cfb21",
+  "installPath": "/system/lib64",
+  "name": "libavservices_minijail.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 10504,
+  "hash": "ab95a3d6c8aa13db3158c7f5590f6b539895ed7f5803cf40d5e792ac09dd1019",
+  "installPath": "/system/lib64",
+  "name": "libcodec2.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 239160,
+  "hash": "eb1c9149ca25826bae39401b02679f8476b4e89bde5c66ed1dcb09f7bd03699f",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.camera.device@3.5.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 15280,
+  "hash": "816a6e8cc993f8fa96dc3880b554514cc641a6de7064162e6c3e0296bcf0c9cc",
+  "installPath": "/system/lib64",
+  "name": "com.android.media.aaudio-aconfig-cc.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 104816,
+  "hash": "b8d9a522a533a792fc19cadf4a3853c282b9b23765ab098e7f32b09ad4544d3d",
+  "installPath": "/system/lib64",
+  "name": "libsounddose.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 592792,
+  "hash": "242ad431e91fafe68766c403c540c7df124f9afac3c45e96946b019e88f2aed5",
+  "installPath": "/system/lib64",
+  "name": "libyuv.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 37984,
+  "hash": "3facb4b84ebc5275b6aba4ecb5e5506e80a76cd7903d6e70076874c25ac793af",
+  "installPath": "/system/lib64",
+  "name": "libkeystore2_crypto.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 40792,
+  "hash": "bd14910ae00f852c66eaf2750cd29ba781b27485726546389a575c4c50106ea2",
+  "installPath": "/system/lib64",
+  "name": "liblpdump_interface-cpp.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 97864,
+  "hash": "e267a92914cf2e6d0fcbaa49d262ccefdc454c867601c568eaa797f5a7e3a9ae",
+  "installPath": "/system/lib64",
+  "name": "android.hardware.graphics.mapper@2.1.so"
+},
+{
+  "bits": 64,
+  "fileSizeInBytes": 37872,
+  "hash": "8698f3697fbd2a96c99adaa4a1571e77865e830ec6ff113751da9044af1ce5e0",
+  "installPath": "/system/lib64",
+  "name": "android.security.compat-ndk.so"
+}
+]
+}

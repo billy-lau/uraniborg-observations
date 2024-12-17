@@ -1,0 +1,13 @@
+{ "version": "2.0.0", "totalBuild": 1,
+"buildInfo": [
+{
+  "apiLevel": 34,
+  "bootloaderVersion": "akita-14.5-12100691",
+  "fingerprint": "google/akita/akita:14/AP2A.240905.003.A1/12234140:user/release-keys",
+  "kernelVersion": "Linux localhost 5.15.137-android14-11-gbc062a78e195-ab12057991 #1 SMP PREEMPT Mon Jul 8 12:34:46 UTC 2024 aarch64 Toybox",
+  "locale": "English (United States)",
+  "radioVersion": "g5300o-240308-240517-B-11857457,g5300o-240308-240517-B-11857457",
+  "securityPatchLevel": "2024-09-05"
+}
+]
+}
