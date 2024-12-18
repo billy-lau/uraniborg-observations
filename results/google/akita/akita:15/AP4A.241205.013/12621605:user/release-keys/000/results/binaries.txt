@@ -1,0 +1,40 @@
+{ "version": "2.0.0", "totalBins": 6,
+"bins": [
+{
+  "fileSizeInBytes": 318216,
+  "hash": "b85c36d978d1c116ac54c269d1620cc5ed5b9929776336c3143ce5ea224121e8",
+  "installPath": "/apex/com.android.art/bin",
+  "name": "oatdump"
+},
+{
+  "fileSizeInBytes": 52048,
+  "hash": "291c517a3104887f0d36e8ab21428a43fe91c0f8033cedb8090c9d974a4a9060",
+  "installPath": "/apex/com.android.art/bin",
+  "name": "dexlist"
+},
+{
+  "fileSizeInBytes": 527928,
+  "hash": "2ad44515d3e9b9cb5343871a995e0b6a7cc7ed1082d7cde6186e3b641dbf0f11",
+  "installPath": "/apex/com.android.runtime/bin",
+  "name": "crash_dump64"
+},
+{
+  "fileSizeInBytes": 2213680,
+  "hash": "670e8e03b49084e21eae4950b05d7663e9b7bd03d09baaee3d72c06f9063023b",
+  "installPath": "/apex/com.android.runtime/bin",
+  "name": "linker64"
+},
+{
+  "fileSizeInBytes": 134800,
+  "hash": "443d09df453a49d9cd65d75012239ab0b933d051e74c97034b07e2c65db7b043",
+  "installPath": "/apex/com.android.art/bin",
+  "name": "dexdump"
+},
+{
+  "fileSizeInBytes": 51520,
+  "hash": "25d6cfdb0c6fd92d3076df03ec969bebeade7e6e59519501e937c8590a543d47",
+  "installPath": "/apex/com.android.art/bin",
+  "name": "dalvikvm64"
+}
+]
+}
